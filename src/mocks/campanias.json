@@ -1,0 +1,66 @@
+[
+  {
+    "id": "CAM-2026-001",
+    "nombre": "Levantamiento inicial 2026 – Lima y Callao",
+    "tipo": "inicial",
+    "descripcion": "Primer levantamiento de bienes patrimoniales y suministros de los CAR de Lima Metropolitana y Callao.",
+    "establecimientoIds": [
+      "CAR-01",
+      "CAR-02",
+      "CAR-03"
+    ],
+    "fechaInicio": "2026-03-02",
+    "fechaFin": "2026-04-10",
+    "responsable": "Equipo de inventario 01 – USPNNA",
+    "estado": "cerrada",
+    "fechaConciliacion": "2026-04-13T20:00:00.000Z",
+    "fechaCierre": "2026-04-24T21:00:00.000Z"
+  },
+  {
+    "id": "CAM-2026-002",
+    "nombre": "Levantamiento inicial 2026 – Arequipa y Cusco",
+    "tipo": "inicial",
+    "descripcion": "Levantamiento en los CAR de la macrorregión sur, a cargo del equipo itinerante de la USPNNA.",
+    "establecimientoIds": [
+      "CAR-04",
+      "CAR-05"
+    ],
+    "fechaInicio": "2026-08-03",
+    "fechaFin": "2026-09-11",
+    "responsable": "Equipo de inventario 02 – USPNNA",
+    "estado": "en_conciliacion",
+    "fechaConciliacion": "2026-09-15T19:00:00.000Z",
+    "fechaCierre": null
+  },
+  {
+    "id": "CAM-2026-003",
+    "nombre": "Levantamiento inicial 2026 – Piura y La Libertad",
+    "tipo": "inicial",
+    "descripcion": "Levantamiento en los CAR de la macrorregión norte.",
+    "establecimientoIds": [
+      "CAR-06",
+      "CAR-07"
+    ],
+    "fechaInicio": "2026-10-01",
+    "fechaFin": "2026-11-06",
+    "responsable": "Equipo de inventario 01 – USPNNA",
+    "estado": "en_curso",
+    "fechaConciliacion": null,
+    "fechaCierre": null
+  },
+  {
+    "id": "CAM-2026-004",
+    "nombre": "Levantamiento inicial 2026 – Junín",
+    "tipo": "inicial",
+    "descripcion": "Levantamiento programado para el CAR de la región Junín.",
+    "establecimientoIds": [
+      "CAR-08"
+    ],
+    "fechaInicio": "2026-11-16",
+    "fechaFin": "2026-12-11",
+    "responsable": "Equipo de inventario 02 – USPNNA",
+    "estado": "planificada",
+    "fechaConciliacion": null,
+    "fechaCierre": null
+  }
+]

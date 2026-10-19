@@ -1,0 +1,130 @@
+[
+  {
+    "id": "ALM-001",
+    "establecimientoId": "CAR-01",
+    "nombre": "Almacén de víveres",
+    "tipo": "viveres",
+    "responsable": "Responsable 01 – Almacén de víveres",
+    "estado": "activo"
+  },
+  {
+    "id": "ALM-002",
+    "establecimientoId": "CAR-01",
+    "nombre": "Almacén general",
+    "tipo": "general",
+    "responsable": "Responsable 02 – Almacén general",
+    "estado": "activo"
+  },
+  {
+    "id": "ALM-003",
+    "establecimientoId": "CAR-02",
+    "nombre": "Almacén de víveres",
+    "tipo": "viveres",
+    "responsable": "Responsable 01 – Almacén de víveres",
+    "estado": "activo"
+  },
+  {
+    "id": "ALM-004",
+    "establecimientoId": "CAR-02",
+    "nombre": "Almacén general",
+    "tipo": "general",
+    "responsable": "Responsable 02 – Almacén general",
+    "estado": "activo"
+  },
+  {
+    "id": "ALM-005",
+    "establecimientoId": "CAR-03",
+    "nombre": "Almacén de víveres",
+    "tipo": "viveres",
+    "responsable": "Responsable 01 – Almacén de víveres",
+    "estado": "activo"
+  },
+  {
+    "id": "ALM-006",
+    "establecimientoId": "CAR-03",
+    "nombre": "Almacén general",
+    "tipo": "general",
+    "responsable": "Responsable 02 – Almacén general",
+    "estado": "activo"
+  },
+  {
+    "id": "ALM-007",
+    "establecimientoId": "CAR-04",
+    "nombre": "Almacén de víveres",
+    "tipo": "viveres",
+    "responsable": "Responsable 01 – Almacén de víveres",
+    "estado": "activo"
+  },
+  {
+    "id": "ALM-008",
+    "establecimientoId": "CAR-04",
+    "nombre": "Almacén general",
+    "tipo": "general",
+    "responsable": "Responsable 02 – Almacén general",
+    "estado": "activo"
+  },
+  {
+    "id": "ALM-009",
+    "establecimientoId": "CAR-05",
+    "nombre": "Almacén de víveres",
+    "tipo": "viveres",
+    "responsable": "Responsable 01 – Almacén de víveres",
+    "estado": "activo"
+  },
+  {
+    "id": "ALM-010",
+    "establecimientoId": "CAR-05",
+    "nombre": "Almacén general",
+    "tipo": "general",
+    "responsable": "Responsable 02 – Almacén general",
+    "estado": "activo"
+  },
+  {
+    "id": "ALM-011",
+    "establecimientoId": "CAR-06",
+    "nombre": "Almacén de víveres",
+    "tipo": "viveres",
+    "responsable": "Responsable 01 – Almacén de víveres",
+    "estado": "activo"
+  },
+  {
+    "id": "ALM-012",
+    "establecimientoId": "CAR-06",
+    "nombre": "Almacén general",
+    "tipo": "general",
+    "responsable": "Responsable 02 – Almacén general",
+    "estado": "activo"
+  },
+  {
+    "id": "ALM-013",
+    "establecimientoId": "CAR-07",
+    "nombre": "Almacén de víveres",
+    "tipo": "viveres",
+    "responsable": "Responsable 01 – Almacén de víveres",
+    "estado": "activo"
+  },
+  {
+    "id": "ALM-014",
+    "establecimientoId": "CAR-07",
+    "nombre": "Almacén general",
+    "tipo": "general",
+    "responsable": "Responsable 02 – Almacén general",
+    "estado": "activo"
+  },
+  {
+    "id": "ALM-015",
+    "establecimientoId": "CAR-08",
+    "nombre": "Almacén de víveres",
+    "tipo": "viveres",
+    "responsable": "Responsable 01 – Almacén de víveres",
+    "estado": "activo"
+  },
+  {
+    "id": "ALM-016",
+    "establecimientoId": "CAR-08",
+    "nombre": "Almacén general",
+    "tipo": "general",
+    "responsable": "Responsable 02 – Almacén general",
+    "estado": "activo"
+  }
+]

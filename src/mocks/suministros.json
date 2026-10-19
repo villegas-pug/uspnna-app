@@ -1,0 +1,302 @@
+[
+  {
+    "id": "SUM-0001",
+    "nombre": "Arroz extra",
+    "categoria": "viveres",
+    "unidad": "kg",
+    "stockMinimo": 60,
+    "controlaVencimiento": true,
+    "descripcion": "",
+    "estado": "activo"
+  },
+  {
+    "id": "SUM-0002",
+    "nombre": "Azúcar rubia",
+    "categoria": "viveres",
+    "unidad": "kg",
+    "stockMinimo": 40,
+    "controlaVencimiento": true,
+    "descripcion": "",
+    "estado": "activo"
+  },
+  {
+    "id": "SUM-0003",
+    "nombre": "Aceite vegetal",
+    "categoria": "viveres",
+    "unidad": "litro",
+    "stockMinimo": 20,
+    "controlaVencimiento": true,
+    "descripcion": "",
+    "estado": "activo"
+  },
+  {
+    "id": "SUM-0004",
+    "nombre": "Leche evaporada",
+    "categoria": "viveres",
+    "unidad": "lata",
+    "stockMinimo": 96,
+    "controlaVencimiento": true,
+    "descripcion": "",
+    "estado": "activo"
+  },
+  {
+    "id": "SUM-0005",
+    "nombre": "Fideos tallarín",
+    "categoria": "viveres",
+    "unidad": "paquete",
+    "stockMinimo": 40,
+    "controlaVencimiento": true,
+    "descripcion": "",
+    "estado": "activo"
+  },
+  {
+    "id": "SUM-0006",
+    "nombre": "Avena en hojuelas",
+    "categoria": "viveres",
+    "unidad": "kg",
+    "stockMinimo": 15,
+    "controlaVencimiento": true,
+    "descripcion": "",
+    "estado": "activo"
+  },
+  {
+    "id": "SUM-0007",
+    "nombre": "Lentejas",
+    "categoria": "viveres",
+    "unidad": "kg",
+    "stockMinimo": 15,
+    "controlaVencimiento": true,
+    "descripcion": "",
+    "estado": "activo"
+  },
+  {
+    "id": "SUM-0008",
+    "nombre": "Atún en conserva",
+    "categoria": "viveres",
+    "unidad": "lata",
+    "stockMinimo": 48,
+    "controlaVencimiento": true,
+    "descripcion": "",
+    "estado": "activo"
+  },
+  {
+    "id": "SUM-0009",
+    "nombre": "Harina de trigo",
+    "categoria": "viveres",
+    "unidad": "kg",
+    "stockMinimo": 10,
+    "controlaVencimiento": true,
+    "descripcion": "",
+    "estado": "activo"
+  },
+  {
+    "id": "SUM-0010",
+    "nombre": "Frijol canario",
+    "categoria": "viveres",
+    "unidad": "kg",
+    "stockMinimo": 15,
+    "controlaVencimiento": true,
+    "descripcion": "",
+    "estado": "activo"
+  },
+  {
+    "id": "SUM-0011",
+    "nombre": "Detergente en polvo",
+    "categoria": "limpieza",
+    "unidad": "kg",
+    "stockMinimo": 15,
+    "controlaVencimiento": false,
+    "descripcion": "",
+    "estado": "activo"
+  },
+  {
+    "id": "SUM-0012",
+    "nombre": "Lejía",
+    "categoria": "limpieza",
+    "unidad": "litro",
+    "stockMinimo": 12,
+    "controlaVencimiento": false,
+    "descripcion": "",
+    "estado": "activo"
+  },
+  {
+    "id": "SUM-0013",
+    "nombre": "Jabón de lavar ropa",
+    "categoria": "limpieza",
+    "unidad": "unidad",
+    "stockMinimo": 24,
+    "controlaVencimiento": false,
+    "descripcion": "",
+    "estado": "activo"
+  },
+  {
+    "id": "SUM-0014",
+    "nombre": "Desinfectante de pisos",
+    "categoria": "limpieza",
+    "unidad": "litro",
+    "stockMinimo": 10,
+    "controlaVencimiento": false,
+    "descripcion": "",
+    "estado": "activo"
+  },
+  {
+    "id": "SUM-0015",
+    "nombre": "Bolsas para basura de 140 litros",
+    "categoria": "limpieza",
+    "unidad": "paquete",
+    "stockMinimo": 10,
+    "controlaVencimiento": false,
+    "descripcion": "",
+    "estado": "activo"
+  },
+  {
+    "id": "SUM-0016",
+    "nombre": "Papel higiénico",
+    "categoria": "aseo_personal",
+    "unidad": "paquete",
+    "stockMinimo": 20,
+    "controlaVencimiento": false,
+    "descripcion": "",
+    "estado": "activo"
+  },
+  {
+    "id": "SUM-0017",
+    "nombre": "Jabón de tocador",
+    "categoria": "aseo_personal",
+    "unidad": "unidad",
+    "stockMinimo": 40,
+    "controlaVencimiento": true,
+    "descripcion": "",
+    "estado": "activo"
+  },
+  {
+    "id": "SUM-0018",
+    "nombre": "Pasta dental",
+    "categoria": "aseo_personal",
+    "unidad": "unidad",
+    "stockMinimo": 30,
+    "controlaVencimiento": true,
+    "descripcion": "",
+    "estado": "activo"
+  },
+  {
+    "id": "SUM-0019",
+    "nombre": "Champú",
+    "categoria": "aseo_personal",
+    "unidad": "frasco",
+    "stockMinimo": 20,
+    "controlaVencimiento": true,
+    "descripcion": "",
+    "estado": "activo"
+  },
+  {
+    "id": "SUM-0020",
+    "nombre": "Toallas higiénicas",
+    "categoria": "aseo_personal",
+    "unidad": "paquete",
+    "stockMinimo": 24,
+    "controlaVencimiento": false,
+    "descripcion": "",
+    "estado": "activo"
+  },
+  {
+    "id": "SUM-0021",
+    "nombre": "Cepillo dental",
+    "categoria": "aseo_personal",
+    "unidad": "unidad",
+    "stockMinimo": 30,
+    "controlaVencimiento": false,
+    "descripcion": "",
+    "estado": "activo"
+  },
+  {
+    "id": "SUM-0022",
+    "nombre": "Cuaderno cuadriculado A4",
+    "categoria": "utiles",
+    "unidad": "unidad",
+    "stockMinimo": 40,
+    "controlaVencimiento": false,
+    "descripcion": "",
+    "estado": "activo"
+  },
+  {
+    "id": "SUM-0023",
+    "nombre": "Lápiz negro N.° 2",
+    "categoria": "utiles",
+    "unidad": "caja",
+    "stockMinimo": 5,
+    "controlaVencimiento": false,
+    "descripcion": "",
+    "estado": "activo"
+  },
+  {
+    "id": "SUM-0024",
+    "nombre": "Papel bond A4 de 75 g",
+    "categoria": "utiles",
+    "unidad": "paquete",
+    "stockMinimo": 6,
+    "controlaVencimiento": false,
+    "descripcion": "",
+    "estado": "activo"
+  },
+  {
+    "id": "SUM-0025",
+    "nombre": "Colores de 12 unidades",
+    "categoria": "utiles",
+    "unidad": "caja",
+    "stockMinimo": 10,
+    "controlaVencimiento": false,
+    "descripcion": "",
+    "estado": "activo"
+  },
+  {
+    "id": "SUM-0026",
+    "nombre": "Paracetamol 500 mg",
+    "categoria": "medicinas",
+    "unidad": "caja",
+    "stockMinimo": 4,
+    "controlaVencimiento": true,
+    "descripcion": "",
+    "estado": "activo"
+  },
+  {
+    "id": "SUM-0027",
+    "nombre": "Alcohol de 70°",
+    "categoria": "medicinas",
+    "unidad": "frasco",
+    "stockMinimo": 6,
+    "controlaVencimiento": true,
+    "descripcion": "",
+    "estado": "activo"
+  },
+  {
+    "id": "SUM-0028",
+    "nombre": "Gasa estéril",
+    "categoria": "medicinas",
+    "unidad": "paquete",
+    "stockMinimo": 10,
+    "controlaVencimiento": true,
+    "descripcion": "",
+    "estado": "activo"
+  },
+  {
+    "id": "SUM-0029",
+    "nombre": "Sales de rehidratación oral",
+    "categoria": "medicinas",
+    "unidad": "unidad",
+    "stockMinimo": 20,
+    "controlaVencimiento": true,
+    "descripcion": "",
+    "estado": "activo"
+  },
+  {
+    "id": "SUM-0030",
+    "nombre": "Ibuprofeno 400 mg",
+    "categoria": "medicinas",
+    "unidad": "caja",
+    "stockMinimo": 3,
+    "controlaVencimiento": true,
+    "descripcion": "",
+    "estado": "activo"
+  }
+]

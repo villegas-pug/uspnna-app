@@ -1,0 +1,27 @@
+// Brand de Quasar según el bloque "Consumo en Quasar" del sistema de diseño "Inventarios USPNNA".
+// Los demás tokens viven como variables CSS en app.scss.
+
+$primary: #bf0411; // inabif-red-dark
+$secondary: #143d8c; // inabif-blue
+$accent: #1d4fa0; // inabif-blue-bar
+
+$dark: #1d1d1d;
+$dark-page: #121212;
+
+$positive: #1f6e45; // status-success-ink
+$negative: #c10015;
+$info: #01579b; // info-ink
+$warning: #8a5a00; // notice-ink
+
+$typography-font-family: Calibri, Carlito, 'Segoe UI', Arial, sans-serif;
+$body-font-size: 14px;
+$body-line-height: 1.5;
+
+$button-border-radius: 3px; // radius-btn (Quasar 2 usa 4px por defecto)
+$generic-border-radius: 4px; // radius-field
+
+// Breakpoints de Quasar = bp-sm, bp-md, bp-lg, bp-xl del sistema de diseño
+$breakpoint-xs: 599.98px;
+$breakpoint-sm: 1023.98px;
+$breakpoint-md: 1439.98px;
+$breakpoint-lg: 1919.98px;

@@ -1,0 +1,2351 @@
+[
+  {
+    "id": "LOT-00001",
+    "suministroId": "SUM-0011",
+    "almacenId": "ALM-006",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 29,
+    "fechaIngreso": "2026-06-08"
+  },
+  {
+    "id": "LOT-00002",
+    "suministroId": "SUM-0012",
+    "almacenId": "ALM-006",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 0,
+    "fechaIngreso": "2026-06-08"
+  },
+  {
+    "id": "LOT-00003",
+    "suministroId": "SUM-0014",
+    "almacenId": "ALM-006",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 29,
+    "fechaIngreso": "2026-06-08"
+  },
+  {
+    "id": "LOT-00004",
+    "suministroId": "SUM-0020",
+    "almacenId": "ALM-006",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 27,
+    "fechaIngreso": "2026-06-08"
+  },
+  {
+    "id": "LOT-00005",
+    "suministroId": "SUM-0021",
+    "almacenId": "ALM-006",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 14,
+    "fechaIngreso": "2026-06-08"
+  },
+  {
+    "id": "LOT-00006",
+    "suministroId": "SUM-0024",
+    "almacenId": "ALM-006",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 1,
+    "fechaIngreso": "2026-06-08"
+  },
+  {
+    "id": "LOT-00007",
+    "suministroId": "SUM-0027",
+    "almacenId": "ALM-006",
+    "numeroLote": "L2293",
+    "fechaVencimiento": "2027-05-03",
+    "cantidad": 10,
+    "fechaIngreso": "2026-06-08"
+  },
+  {
+    "id": "LOT-00008",
+    "suministroId": "SUM-0003",
+    "almacenId": "ALM-009",
+    "numeroLote": "L4146",
+    "fechaVencimiento": "2026-10-29",
+    "cantidad": 15,
+    "fechaIngreso": "2026-06-08"
+  },
+  {
+    "id": "LOT-00009",
+    "suministroId": "SUM-0003",
+    "almacenId": "ALM-009",
+    "numeroLote": "L6604",
+    "fechaVencimiento": "2027-10-29",
+    "cantidad": 14,
+    "fechaIngreso": "2026-06-08"
+  },
+  {
+    "id": "LOT-00010",
+    "suministroId": "SUM-0004",
+    "almacenId": "ALM-009",
+    "numeroLote": "L3413",
+    "fechaVencimiento": "2027-08-05",
+    "cantidad": 146,
+    "fechaIngreso": "2026-06-08"
+  },
+  {
+    "id": "LOT-00011",
+    "suministroId": "SUM-0010",
+    "almacenId": "ALM-009",
+    "numeroLote": "L3843",
+    "fechaVencimiento": "2026-12-15",
+    "cantidad": 39,
+    "fechaIngreso": "2026-06-08"
+  },
+  {
+    "id": "LOT-00012",
+    "suministroId": "SUM-0015",
+    "almacenId": "ALM-002",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 20,
+    "fechaIngreso": "2026-06-12"
+  },
+  {
+    "id": "LOT-00013",
+    "suministroId": "SUM-0023",
+    "almacenId": "ALM-002",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 10,
+    "fechaIngreso": "2026-06-12"
+  },
+  {
+    "id": "LOT-00014",
+    "suministroId": "SUM-0028",
+    "almacenId": "ALM-002",
+    "numeroLote": "L6193",
+    "fechaVencimiento": "2027-04-09",
+    "cantidad": 10,
+    "fechaIngreso": "2026-06-12"
+  },
+  {
+    "id": "LOT-00015",
+    "suministroId": "SUM-0019",
+    "almacenId": "ALM-012",
+    "numeroLote": "L4604",
+    "fechaVencimiento": "2026-11-04",
+    "cantidad": 25,
+    "fechaIngreso": "2026-06-12"
+  },
+  {
+    "id": "LOT-00016",
+    "suministroId": "SUM-0020",
+    "almacenId": "ALM-012",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 34,
+    "fechaIngreso": "2026-06-12"
+  },
+  {
+    "id": "LOT-00017",
+    "suministroId": "SUM-0021",
+    "almacenId": "ALM-012",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 53,
+    "fechaIngreso": "2026-06-12"
+  },
+  {
+    "id": "LOT-00018",
+    "suministroId": "SUM-0023",
+    "almacenId": "ALM-012",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 10,
+    "fechaIngreso": "2026-06-12"
+  },
+  {
+    "id": "LOT-00019",
+    "suministroId": "SUM-0025",
+    "almacenId": "ALM-012",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 11,
+    "fechaIngreso": "2026-06-12"
+  },
+  {
+    "id": "LOT-00020",
+    "suministroId": "SUM-0026",
+    "almacenId": "ALM-012",
+    "numeroLote": "L2332",
+    "fechaVencimiento": "2026-10-29",
+    "cantidad": 2,
+    "fechaIngreso": "2026-06-12"
+  },
+  {
+    "id": "LOT-00021",
+    "suministroId": "SUM-0003",
+    "almacenId": "ALM-015",
+    "numeroLote": "L7480",
+    "fechaVencimiento": "2026-08-20",
+    "cantidad": 12,
+    "fechaIngreso": "2026-06-12"
+  },
+  {
+    "id": "LOT-00022",
+    "suministroId": "SUM-0003",
+    "almacenId": "ALM-015",
+    "numeroLote": "L7472",
+    "fechaVencimiento": "2027-12-29",
+    "cantidad": 13,
+    "fechaIngreso": "2026-06-12"
+  },
+  {
+    "id": "LOT-00023",
+    "suministroId": "SUM-0004",
+    "almacenId": "ALM-015",
+    "numeroLote": "L7516",
+    "fechaVencimiento": "2027-01-10",
+    "cantidad": 149,
+    "fechaIngreso": "2026-06-12"
+  },
+  {
+    "id": "LOT-00024",
+    "suministroId": "SUM-0006",
+    "almacenId": "ALM-015",
+    "numeroLote": "L4932",
+    "fechaVencimiento": "2026-09-28",
+    "cantidad": 41,
+    "fechaIngreso": "2026-06-12"
+  },
+  {
+    "id": "LOT-00025",
+    "suministroId": "SUM-0009",
+    "almacenId": "ALM-015",
+    "numeroLote": "L6446",
+    "fechaVencimiento": "2027-10-13",
+    "cantidad": 6,
+    "fechaIngreso": "2026-06-12"
+  },
+  {
+    "id": "LOT-00026",
+    "suministroId": "SUM-0010",
+    "almacenId": "ALM-015",
+    "numeroLote": "L2448",
+    "fechaVencimiento": "2027-04-05",
+    "cantidad": 3,
+    "fechaIngreso": "2026-06-12"
+  },
+  {
+    "id": "LOT-00027",
+    "suministroId": "SUM-0002",
+    "almacenId": "ALM-001",
+    "numeroLote": "L8316",
+    "fechaVencimiento": "2026-09-29",
+    "cantidad": 53,
+    "fechaIngreso": "2026-06-13"
+  },
+  {
+    "id": "LOT-00028",
+    "suministroId": "SUM-0003",
+    "almacenId": "ALM-001",
+    "numeroLote": "L2955",
+    "fechaVencimiento": "2027-12-31",
+    "cantidad": 7,
+    "fechaIngreso": "2026-06-13"
+  },
+  {
+    "id": "LOT-00029",
+    "suministroId": "SUM-0004",
+    "almacenId": "ALM-001",
+    "numeroLote": "L3758",
+    "fechaVencimiento": "2027-03-27",
+    "cantidad": 37,
+    "fechaIngreso": "2026-06-13"
+  },
+  {
+    "id": "LOT-00030",
+    "suministroId": "SUM-0005",
+    "almacenId": "ALM-001",
+    "numeroLote": "L9791",
+    "fechaVencimiento": "2027-04-19",
+    "cantidad": 66,
+    "fechaIngreso": "2026-06-13"
+  },
+  {
+    "id": "LOT-00031",
+    "suministroId": "SUM-0005",
+    "almacenId": "ALM-001",
+    "numeroLote": "L0201",
+    "fechaVencimiento": "2026-10-24",
+    "cantidad": 49,
+    "fechaIngreso": "2026-06-13"
+  },
+  {
+    "id": "LOT-00032",
+    "suministroId": "SUM-0007",
+    "almacenId": "ALM-001",
+    "numeroLote": "L7054",
+    "fechaVencimiento": "2027-08-11",
+    "cantidad": 8,
+    "fechaIngreso": "2026-06-13"
+  },
+  {
+    "id": "LOT-00033",
+    "suministroId": "SUM-0009",
+    "almacenId": "ALM-001",
+    "numeroLote": "L2881",
+    "fechaVencimiento": "2026-09-02",
+    "cantidad": 11,
+    "fechaIngreso": "2026-06-13"
+  },
+  {
+    "id": "LOT-00034",
+    "suministroId": "SUM-0010",
+    "almacenId": "ALM-001",
+    "numeroLote": "L9724",
+    "fechaVencimiento": "2027-09-09",
+    "cantidad": 38,
+    "fechaIngreso": "2026-06-13"
+  },
+  {
+    "id": "LOT-00035",
+    "suministroId": "SUM-0016",
+    "almacenId": "ALM-008",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 23,
+    "fechaIngreso": "2026-06-13"
+  },
+  {
+    "id": "LOT-00036",
+    "suministroId": "SUM-0027",
+    "almacenId": "ALM-008",
+    "numeroLote": "L5216",
+    "fechaVencimiento": "2026-08-25",
+    "cantidad": 5,
+    "fechaIngreso": "2026-06-13"
+  },
+  {
+    "id": "LOT-00037",
+    "suministroId": "SUM-0029",
+    "almacenId": "ALM-008",
+    "numeroLote": "L3065",
+    "fechaVencimiento": "2026-10-30",
+    "cantidad": 28,
+    "fechaIngreso": "2026-06-13"
+  },
+  {
+    "id": "LOT-00038",
+    "suministroId": "SUM-0030",
+    "almacenId": "ALM-008",
+    "numeroLote": "L4267",
+    "fechaVencimiento": "2027-09-07",
+    "cantidad": 4,
+    "fechaIngreso": "2026-06-13"
+  },
+  {
+    "id": "LOT-00039",
+    "suministroId": "SUM-0030",
+    "almacenId": "ALM-008",
+    "numeroLote": "L8782",
+    "fechaVencimiento": "2027-10-14",
+    "cantidad": 5,
+    "fechaIngreso": "2026-06-13"
+  },
+  {
+    "id": "LOT-00040",
+    "suministroId": "SUM-0004",
+    "almacenId": "ALM-013",
+    "numeroLote": "L8133",
+    "fechaVencimiento": "2027-08-30",
+    "cantidad": 119,
+    "fechaIngreso": "2026-06-13"
+  },
+  {
+    "id": "LOT-00041",
+    "suministroId": "SUM-0006",
+    "almacenId": "ALM-013",
+    "numeroLote": "L5112",
+    "fechaVencimiento": "2026-09-17",
+    "cantidad": 23,
+    "fechaIngreso": "2026-06-13"
+  },
+  {
+    "id": "LOT-00042",
+    "suministroId": "SUM-0009",
+    "almacenId": "ALM-013",
+    "numeroLote": "L9653",
+    "fechaVencimiento": "2027-08-29",
+    "cantidad": 14,
+    "fechaIngreso": "2026-06-13"
+  },
+  {
+    "id": "LOT-00043",
+    "suministroId": "SUM-0010",
+    "almacenId": "ALM-013",
+    "numeroLote": "L2276",
+    "fechaVencimiento": "2026-10-13",
+    "cantidad": 22,
+    "fechaIngreso": "2026-06-13"
+  },
+  {
+    "id": "LOT-00044",
+    "suministroId": "SUM-0011",
+    "almacenId": "ALM-016",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 5,
+    "fechaIngreso": "2026-06-13"
+  },
+  {
+    "id": "LOT-00045",
+    "suministroId": "SUM-0020",
+    "almacenId": "ALM-016",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 6,
+    "fechaIngreso": "2026-06-13"
+  },
+  {
+    "id": "LOT-00046",
+    "suministroId": "SUM-0026",
+    "almacenId": "ALM-016",
+    "numeroLote": "L8646",
+    "fechaVencimiento": "2027-09-13",
+    "cantidad": 4,
+    "fechaIngreso": "2026-06-13"
+  },
+  {
+    "id": "LOT-00047",
+    "suministroId": "SUM-0027",
+    "almacenId": "ALM-016",
+    "numeroLote": "L4154",
+    "fechaVencimiento": "2027-07-27",
+    "cantidad": 4,
+    "fechaIngreso": "2026-06-13"
+  },
+  {
+    "id": "LOT-00048",
+    "suministroId": "SUM-0027",
+    "almacenId": "ALM-016",
+    "numeroLote": "L0624",
+    "fechaVencimiento": "2027-07-20",
+    "cantidad": 5,
+    "fechaIngreso": "2026-06-13"
+  },
+  {
+    "id": "LOT-00049",
+    "suministroId": "SUM-0028",
+    "almacenId": "ALM-016",
+    "numeroLote": "L1028",
+    "fechaVencimiento": "2026-10-06",
+    "cantidad": 8,
+    "fechaIngreso": "2026-06-13"
+  },
+  {
+    "id": "LOT-00050",
+    "suministroId": "SUM-0002",
+    "almacenId": "ALM-003",
+    "numeroLote": "L7287",
+    "fechaVencimiento": "2027-03-04",
+    "cantidad": 57,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00051",
+    "suministroId": "SUM-0010",
+    "almacenId": "ALM-003",
+    "numeroLote": "L2136",
+    "fechaVencimiento": "2027-12-27",
+    "cantidad": 29,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00052",
+    "suministroId": "SUM-0004",
+    "almacenId": "ALM-005",
+    "numeroLote": "L8017",
+    "fechaVencimiento": "2027-05-04",
+    "cantidad": 166,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00053",
+    "suministroId": "SUM-0005",
+    "almacenId": "ALM-005",
+    "numeroLote": "L3577",
+    "fechaVencimiento": "2027-08-29",
+    "cantidad": 63,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00054",
+    "suministroId": "SUM-0006",
+    "almacenId": "ALM-005",
+    "numeroLote": "L5865",
+    "fechaVencimiento": "2026-12-21",
+    "cantidad": 14,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00055",
+    "suministroId": "SUM-0007",
+    "almacenId": "ALM-005",
+    "numeroLote": "L5864",
+    "fechaVencimiento": "2027-03-22",
+    "cantidad": 24,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00056",
+    "suministroId": "SUM-0008",
+    "almacenId": "ALM-005",
+    "numeroLote": "L5437",
+    "fechaVencimiento": "2027-07-18",
+    "cantidad": 80,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00057",
+    "suministroId": "SUM-0009",
+    "almacenId": "ALM-005",
+    "numeroLote": "L3269",
+    "fechaVencimiento": "2026-12-12",
+    "cantidad": 4,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00058",
+    "suministroId": "SUM-0005",
+    "almacenId": "ALM-007",
+    "numeroLote": "L1233",
+    "fechaVencimiento": "2026-12-16",
+    "cantidad": 36,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00059",
+    "suministroId": "SUM-0009",
+    "almacenId": "ALM-007",
+    "numeroLote": "L0698",
+    "fechaVencimiento": "2026-12-24",
+    "cantidad": 16,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00060",
+    "suministroId": "SUM-0015",
+    "almacenId": "ALM-010",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 22,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00061",
+    "suministroId": "SUM-0020",
+    "almacenId": "ALM-010",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 71,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00062",
+    "suministroId": "SUM-0021",
+    "almacenId": "ALM-010",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 0,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00063",
+    "suministroId": "SUM-0024",
+    "almacenId": "ALM-010",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 16,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00064",
+    "suministroId": "SUM-0026",
+    "almacenId": "ALM-010",
+    "numeroLote": "L0349",
+    "fechaVencimiento": "2026-09-28",
+    "cantidad": 5,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00065",
+    "suministroId": "SUM-0029",
+    "almacenId": "ALM-010",
+    "numeroLote": "L6475",
+    "fechaVencimiento": "2026-08-30",
+    "cantidad": 9,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00066",
+    "suministroId": "SUM-0002",
+    "almacenId": "ALM-011",
+    "numeroLote": "L5336",
+    "fechaVencimiento": "2027-05-19",
+    "cantidad": 27,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00067",
+    "suministroId": "SUM-0004",
+    "almacenId": "ALM-011",
+    "numeroLote": "L2210",
+    "fechaVencimiento": "2026-11-07",
+    "cantidad": 129,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00068",
+    "suministroId": "SUM-0005",
+    "almacenId": "ALM-011",
+    "numeroLote": "L5341",
+    "fechaVencimiento": "2026-10-14",
+    "cantidad": 15,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00069",
+    "suministroId": "SUM-0006",
+    "almacenId": "ALM-011",
+    "numeroLote": "L9112",
+    "fechaVencimiento": "2026-10-26",
+    "cantidad": 8,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00070",
+    "suministroId": "SUM-0010",
+    "almacenId": "ALM-011",
+    "numeroLote": "L0293",
+    "fechaVencimiento": "2027-01-18",
+    "cantidad": 9,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00071",
+    "suministroId": "SUM-0012",
+    "almacenId": "ALM-014",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 17,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00072",
+    "suministroId": "SUM-0016",
+    "almacenId": "ALM-014",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 37,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00073",
+    "suministroId": "SUM-0017",
+    "almacenId": "ALM-014",
+    "numeroLote": "L3933",
+    "fechaVencimiento": "2027-10-21",
+    "cantidad": 59,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00074",
+    "suministroId": "SUM-0018",
+    "almacenId": "ALM-014",
+    "numeroLote": "L9683",
+    "fechaVencimiento": "2026-09-20",
+    "cantidad": 0,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00075",
+    "suministroId": "SUM-0019",
+    "almacenId": "ALM-014",
+    "numeroLote": "L0216",
+    "fechaVencimiento": "2027-10-07",
+    "cantidad": 9,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00076",
+    "suministroId": "SUM-0022",
+    "almacenId": "ALM-014",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 88,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00077",
+    "suministroId": "SUM-0023",
+    "almacenId": "ALM-014",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 14,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00078",
+    "suministroId": "SUM-0024",
+    "almacenId": "ALM-014",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 8,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00079",
+    "suministroId": "SUM-0028",
+    "almacenId": "ALM-014",
+    "numeroLote": "L9897",
+    "fechaVencimiento": "2027-11-10",
+    "cantidad": 20,
+    "fechaIngreso": "2026-06-18"
+  },
+  {
+    "id": "LOT-00080",
+    "suministroId": "SUM-0011",
+    "almacenId": "ALM-004",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 8,
+    "fechaIngreso": "2026-06-19"
+  },
+  {
+    "id": "LOT-00081",
+    "suministroId": "SUM-0018",
+    "almacenId": "ALM-004",
+    "numeroLote": "L1452",
+    "fechaVencimiento": "2027-01-19",
+    "cantidad": 70,
+    "fechaIngreso": "2026-06-19"
+  },
+  {
+    "id": "LOT-00082",
+    "suministroId": "SUM-0027",
+    "almacenId": "ALM-004",
+    "numeroLote": "L8052",
+    "fechaVencimiento": "2027-04-02",
+    "cantidad": 9,
+    "fechaIngreso": "2026-06-19"
+  },
+  {
+    "id": "LOT-00083",
+    "suministroId": "SUM-0028",
+    "almacenId": "ALM-004",
+    "numeroLote": "L3782",
+    "fechaVencimiento": "2026-09-10",
+    "cantidad": 13,
+    "fechaIngreso": "2026-06-19"
+  },
+  {
+    "id": "LOT-00084",
+    "suministroId": "SUM-0014",
+    "almacenId": "ALM-010",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 4,
+    "fechaIngreso": "2026-07-14"
+  },
+  {
+    "id": "LOT-00085",
+    "suministroId": "SUM-0016",
+    "almacenId": "ALM-010",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 45,
+    "fechaIngreso": "2026-07-14"
+  },
+  {
+    "id": "LOT-00086",
+    "suministroId": "SUM-0022",
+    "almacenId": "ALM-010",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 119,
+    "fechaIngreso": "2026-07-14"
+  },
+  {
+    "id": "LOT-00087",
+    "suministroId": "SUM-0023",
+    "almacenId": "ALM-010",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 15,
+    "fechaIngreso": "2026-07-14"
+  },
+  {
+    "id": "LOT-00088",
+    "suministroId": "SUM-0025",
+    "almacenId": "ALM-010",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 19,
+    "fechaIngreso": "2026-07-14"
+  },
+  {
+    "id": "LOT-00089",
+    "suministroId": "SUM-0026",
+    "almacenId": "ALM-010",
+    "numeroLote": "L1863",
+    "fechaVencimiento": "2027-07-15",
+    "cantidad": 4,
+    "fechaIngreso": "2026-07-14"
+  },
+  {
+    "id": "LOT-00090",
+    "suministroId": "SUM-0027",
+    "almacenId": "ALM-010",
+    "numeroLote": "L3577",
+    "fechaVencimiento": "2027-06-01",
+    "cantidad": 18,
+    "fechaIngreso": "2026-07-14"
+  },
+  {
+    "id": "LOT-00091",
+    "suministroId": "SUM-0017",
+    "almacenId": "ALM-014",
+    "numeroLote": "L6639",
+    "fechaVencimiento": "2027-02-15",
+    "cantidad": 54,
+    "fechaIngreso": "2026-07-15"
+  },
+  {
+    "id": "LOT-00092",
+    "suministroId": "SUM-0021",
+    "almacenId": "ALM-014",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 36,
+    "fechaIngreso": "2026-07-15"
+  },
+  {
+    "id": "LOT-00093",
+    "suministroId": "SUM-0027",
+    "almacenId": "ALM-014",
+    "numeroLote": "L0118",
+    "fechaVencimiento": "2026-09-23",
+    "cantidad": 4,
+    "fechaIngreso": "2026-07-15"
+  },
+  {
+    "id": "LOT-00094",
+    "suministroId": "SUM-0027",
+    "almacenId": "ALM-014",
+    "numeroLote": "L2005",
+    "fechaVencimiento": "2027-03-19",
+    "cantidad": 6,
+    "fechaIngreso": "2026-07-15"
+  },
+  {
+    "id": "LOT-00095",
+    "suministroId": "SUM-0005",
+    "almacenId": "ALM-015",
+    "numeroLote": "L5487",
+    "fechaVencimiento": "2026-11-06",
+    "cantidad": 57,
+    "fechaIngreso": "2026-07-18"
+  },
+  {
+    "id": "LOT-00096",
+    "suministroId": "SUM-0005",
+    "almacenId": "ALM-015",
+    "numeroLote": "L3363",
+    "fechaVencimiento": "2027-02-17",
+    "cantidad": 46,
+    "fechaIngreso": "2026-07-18"
+  },
+  {
+    "id": "LOT-00097",
+    "suministroId": "SUM-0007",
+    "almacenId": "ALM-015",
+    "numeroLote": "L5730",
+    "fechaVencimiento": "2027-03-16",
+    "cantidad": 9,
+    "fechaIngreso": "2026-07-18"
+  },
+  {
+    "id": "LOT-00098",
+    "suministroId": "SUM-0008",
+    "almacenId": "ALM-015",
+    "numeroLote": "L5692",
+    "fechaVencimiento": "2027-06-03",
+    "cantidad": 132,
+    "fechaIngreso": "2026-07-18"
+  },
+  {
+    "id": "LOT-00099",
+    "suministroId": "SUM-0017",
+    "almacenId": "ALM-016",
+    "numeroLote": "L5097",
+    "fechaVencimiento": "2027-04-23",
+    "cantidad": 68,
+    "fechaIngreso": "2026-07-18"
+  },
+  {
+    "id": "LOT-00100",
+    "suministroId": "SUM-0018",
+    "almacenId": "ALM-016",
+    "numeroLote": "L7056",
+    "fechaVencimiento": "2026-09-05",
+    "cantidad": 44,
+    "fechaIngreso": "2026-07-18"
+  },
+  {
+    "id": "LOT-00101",
+    "suministroId": "SUM-0022",
+    "almacenId": "ALM-016",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 55,
+    "fechaIngreso": "2026-07-18"
+  },
+  {
+    "id": "LOT-00102",
+    "suministroId": "SUM-0024",
+    "almacenId": "ALM-016",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 9,
+    "fechaIngreso": "2026-07-18"
+  },
+  {
+    "id": "LOT-00103",
+    "suministroId": "SUM-0015",
+    "almacenId": "ALM-004",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 7,
+    "fechaIngreso": "2026-07-19"
+  },
+  {
+    "id": "LOT-00104",
+    "suministroId": "SUM-0017",
+    "almacenId": "ALM-004",
+    "numeroLote": "L4346",
+    "fechaVencimiento": "2026-11-08",
+    "cantidad": 99,
+    "fechaIngreso": "2026-07-19"
+  },
+  {
+    "id": "LOT-00105",
+    "suministroId": "SUM-0019",
+    "almacenId": "ALM-004",
+    "numeroLote": "L6146",
+    "fechaVencimiento": "2027-06-02",
+    "cantidad": 31,
+    "fechaIngreso": "2026-07-19"
+  },
+  {
+    "id": "LOT-00106",
+    "suministroId": "SUM-0023",
+    "almacenId": "ALM-004",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 10,
+    "fechaIngreso": "2026-07-19"
+  },
+  {
+    "id": "LOT-00107",
+    "suministroId": "SUM-0024",
+    "almacenId": "ALM-004",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 5,
+    "fechaIngreso": "2026-07-19"
+  },
+  {
+    "id": "LOT-00108",
+    "suministroId": "SUM-0025",
+    "almacenId": "ALM-004",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 17,
+    "fechaIngreso": "2026-07-19"
+  },
+  {
+    "id": "LOT-00109",
+    "suministroId": "SUM-0028",
+    "almacenId": "ALM-004",
+    "numeroLote": "L7537",
+    "fechaVencimiento": "2027-11-15",
+    "cantidad": 6,
+    "fechaIngreso": "2026-07-19"
+  },
+  {
+    "id": "LOT-00110",
+    "suministroId": "SUM-0029",
+    "almacenId": "ALM-004",
+    "numeroLote": "L0424",
+    "fechaVencimiento": "2026-10-24",
+    "cantidad": 38,
+    "fechaIngreso": "2026-07-19"
+  },
+  {
+    "id": "LOT-00111",
+    "suministroId": "SUM-0030",
+    "almacenId": "ALM-004",
+    "numeroLote": "L3230",
+    "fechaVencimiento": "2027-12-28",
+    "cantidad": 8,
+    "fechaIngreso": "2026-07-19"
+  },
+  {
+    "id": "LOT-00112",
+    "suministroId": "SUM-0011",
+    "almacenId": "ALM-002",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 25,
+    "fechaIngreso": "2026-07-20"
+  },
+  {
+    "id": "LOT-00113",
+    "suministroId": "SUM-0012",
+    "almacenId": "ALM-002",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 23,
+    "fechaIngreso": "2026-07-20"
+  },
+  {
+    "id": "LOT-00114",
+    "suministroId": "SUM-0013",
+    "almacenId": "ALM-002",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 10,
+    "fechaIngreso": "2026-07-20"
+  },
+  {
+    "id": "LOT-00115",
+    "suministroId": "SUM-0017",
+    "almacenId": "ALM-002",
+    "numeroLote": "L1192",
+    "fechaVencimiento": "2027-07-21",
+    "cantidad": 49,
+    "fechaIngreso": "2026-07-20"
+  },
+  {
+    "id": "LOT-00116",
+    "suministroId": "SUM-0019",
+    "almacenId": "ALM-002",
+    "numeroLote": "L8530",
+    "fechaVencimiento": "2027-07-25",
+    "cantidad": 56,
+    "fechaIngreso": "2026-07-20"
+  },
+  {
+    "id": "LOT-00117",
+    "suministroId": "SUM-0021",
+    "almacenId": "ALM-002",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 60,
+    "fechaIngreso": "2026-07-20"
+  },
+  {
+    "id": "LOT-00118",
+    "suministroId": "SUM-0022",
+    "almacenId": "ALM-002",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 120,
+    "fechaIngreso": "2026-07-20"
+  },
+  {
+    "id": "LOT-00119",
+    "suministroId": "SUM-0025",
+    "almacenId": "ALM-002",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 11,
+    "fechaIngreso": "2026-07-20"
+  },
+  {
+    "id": "LOT-00120",
+    "suministroId": "SUM-0026",
+    "almacenId": "ALM-002",
+    "numeroLote": "L8893",
+    "fechaVencimiento": "2027-11-22",
+    "cantidad": 2,
+    "fechaIngreso": "2026-07-20"
+  },
+  {
+    "id": "LOT-00121",
+    "suministroId": "SUM-0028",
+    "almacenId": "ALM-002",
+    "numeroLote": "L8358",
+    "fechaVencimiento": "2027-03-05",
+    "cantidad": 19,
+    "fechaIngreso": "2026-07-20"
+  },
+  {
+    "id": "LOT-00122",
+    "suministroId": "SUM-0003",
+    "almacenId": "ALM-003",
+    "numeroLote": "L6164",
+    "fechaVencimiento": "2027-01-08",
+    "cantidad": 30,
+    "fechaIngreso": "2026-07-20"
+  },
+  {
+    "id": "LOT-00123",
+    "suministroId": "SUM-0005",
+    "almacenId": "ALM-003",
+    "numeroLote": "L8771",
+    "fechaVencimiento": "2026-11-07",
+    "cantidad": 111,
+    "fechaIngreso": "2026-07-20"
+  },
+  {
+    "id": "LOT-00124",
+    "suministroId": "SUM-0006",
+    "almacenId": "ALM-003",
+    "numeroLote": "L6724",
+    "fechaVencimiento": "2027-10-20",
+    "cantidad": 37,
+    "fechaIngreso": "2026-07-20"
+  },
+  {
+    "id": "LOT-00125",
+    "suministroId": "SUM-0007",
+    "almacenId": "ALM-003",
+    "numeroLote": "L5971",
+    "fechaVencimiento": "2027-03-16",
+    "cantidad": 17,
+    "fechaIngreso": "2026-07-20"
+  },
+  {
+    "id": "LOT-00126",
+    "suministroId": "SUM-0001",
+    "almacenId": "ALM-007",
+    "numeroLote": "L7064",
+    "fechaVencimiento": "2027-12-12",
+    "cantidad": 27,
+    "fechaIngreso": "2026-07-20"
+  },
+  {
+    "id": "LOT-00127",
+    "suministroId": "SUM-0003",
+    "almacenId": "ALM-007",
+    "numeroLote": "L7683",
+    "fechaVencimiento": "2027-03-06",
+    "cantidad": 56,
+    "fechaIngreso": "2026-07-20"
+  },
+  {
+    "id": "LOT-00128",
+    "suministroId": "SUM-0008",
+    "almacenId": "ALM-007",
+    "numeroLote": "L5398",
+    "fechaVencimiento": "2027-03-06",
+    "cantidad": 70,
+    "fechaIngreso": "2026-07-20"
+  },
+  {
+    "id": "LOT-00129",
+    "suministroId": "SUM-0002",
+    "almacenId": "ALM-005",
+    "numeroLote": "L4831",
+    "fechaVencimiento": "2027-09-24",
+    "cantidad": 40,
+    "fechaIngreso": "2026-07-21"
+  },
+  {
+    "id": "LOT-00130",
+    "suministroId": "SUM-0010",
+    "almacenId": "ALM-005",
+    "numeroLote": "L5683",
+    "fechaVencimiento": "2027-03-18",
+    "cantidad": 23,
+    "fechaIngreso": "2026-07-21"
+  },
+  {
+    "id": "LOT-00131",
+    "suministroId": "SUM-0007",
+    "almacenId": "ALM-009",
+    "numeroLote": "L9994",
+    "fechaVencimiento": "2026-10-27",
+    "cantidad": 0,
+    "fechaIngreso": "2026-07-21"
+  },
+  {
+    "id": "LOT-00132",
+    "suministroId": "SUM-0008",
+    "almacenId": "ALM-009",
+    "numeroLote": "L9901",
+    "fechaVencimiento": "2026-10-07",
+    "cantidad": 54,
+    "fechaIngreso": "2026-07-21"
+  },
+  {
+    "id": "LOT-00133",
+    "suministroId": "SUM-0001",
+    "almacenId": "ALM-001",
+    "numeroLote": "L2437",
+    "fechaVencimiento": "2026-10-11",
+    "cantidad": 0,
+    "fechaIngreso": "2026-07-22"
+  },
+  {
+    "id": "LOT-00134",
+    "suministroId": "SUM-0002",
+    "almacenId": "ALM-001",
+    "numeroLote": "L0141",
+    "fechaVencimiento": "2027-08-27",
+    "cantidad": 56,
+    "fechaIngreso": "2026-07-22"
+  },
+  {
+    "id": "LOT-00135",
+    "suministroId": "SUM-0004",
+    "almacenId": "ALM-001",
+    "numeroLote": "L4664",
+    "fechaVencimiento": "2026-09-11",
+    "cantidad": 46,
+    "fechaIngreso": "2026-07-22"
+  },
+  {
+    "id": "LOT-00136",
+    "suministroId": "SUM-0006",
+    "almacenId": "ALM-001",
+    "numeroLote": "L7045",
+    "fechaVencimiento": "2026-11-03",
+    "cantidad": 33,
+    "fechaIngreso": "2026-07-22"
+  },
+  {
+    "id": "LOT-00137",
+    "suministroId": "SUM-0009",
+    "almacenId": "ALM-001",
+    "numeroLote": "L1061",
+    "fechaVencimiento": "2026-12-31",
+    "cantidad": 12,
+    "fechaIngreso": "2026-07-22"
+  },
+  {
+    "id": "LOT-00138",
+    "suministroId": "SUM-0002",
+    "almacenId": "ALM-011",
+    "numeroLote": "L3988",
+    "fechaVencimiento": "2027-02-18",
+    "cantidad": 65,
+    "fechaIngreso": "2026-07-22"
+  },
+  {
+    "id": "LOT-00139",
+    "suministroId": "SUM-0006",
+    "almacenId": "ALM-011",
+    "numeroLote": "L7876",
+    "fechaVencimiento": "2027-01-21",
+    "cantidad": 13,
+    "fechaIngreso": "2026-07-22"
+  },
+  {
+    "id": "LOT-00140",
+    "suministroId": "SUM-0007",
+    "almacenId": "ALM-011",
+    "numeroLote": "L6721",
+    "fechaVencimiento": "2027-08-23",
+    "cantidad": 18,
+    "fechaIngreso": "2026-07-22"
+  },
+  {
+    "id": "LOT-00141",
+    "suministroId": "SUM-0007",
+    "almacenId": "ALM-011",
+    "numeroLote": "L5743",
+    "fechaVencimiento": "2027-09-22",
+    "cantidad": 16,
+    "fechaIngreso": "2026-07-22"
+  },
+  {
+    "id": "LOT-00142",
+    "suministroId": "SUM-0010",
+    "almacenId": "ALM-011",
+    "numeroLote": "L8134",
+    "fechaVencimiento": "2027-09-29",
+    "cantidad": 15,
+    "fechaIngreso": "2026-07-22"
+  },
+  {
+    "id": "LOT-00143",
+    "suministroId": "SUM-0003",
+    "almacenId": "ALM-013",
+    "numeroLote": "L3461",
+    "fechaVencimiento": "2027-11-10",
+    "cantidad": 20,
+    "fechaIngreso": "2026-07-22"
+  },
+  {
+    "id": "LOT-00144",
+    "suministroId": "SUM-0004",
+    "almacenId": "ALM-013",
+    "numeroLote": "L2100",
+    "fechaVencimiento": "2026-10-30",
+    "cantidad": 122,
+    "fechaIngreso": "2026-07-22"
+  },
+  {
+    "id": "LOT-00145",
+    "suministroId": "SUM-0005",
+    "almacenId": "ALM-013",
+    "numeroLote": "L5559",
+    "fechaVencimiento": "2027-03-07",
+    "cantidad": 21,
+    "fechaIngreso": "2026-07-22"
+  },
+  {
+    "id": "LOT-00146",
+    "suministroId": "SUM-0006",
+    "almacenId": "ALM-013",
+    "numeroLote": "L5028",
+    "fechaVencimiento": "2026-12-15",
+    "cantidad": 17,
+    "fechaIngreso": "2026-07-22"
+  },
+  {
+    "id": "LOT-00147",
+    "suministroId": "SUM-0008",
+    "almacenId": "ALM-013",
+    "numeroLote": "L7781",
+    "fechaVencimiento": "2026-09-21",
+    "cantidad": 122,
+    "fechaIngreso": "2026-07-22"
+  },
+  {
+    "id": "LOT-00148",
+    "suministroId": "SUM-0009",
+    "almacenId": "ALM-013",
+    "numeroLote": "L3920",
+    "fechaVencimiento": "2027-12-02",
+    "cantidad": 12,
+    "fechaIngreso": "2026-07-22"
+  },
+  {
+    "id": "LOT-00149",
+    "suministroId": "SUM-0015",
+    "almacenId": "ALM-006",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 28,
+    "fechaIngreso": "2026-07-23"
+  },
+  {
+    "id": "LOT-00150",
+    "suministroId": "SUM-0016",
+    "almacenId": "ALM-006",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 58,
+    "fechaIngreso": "2026-07-23"
+  },
+  {
+    "id": "LOT-00151",
+    "suministroId": "SUM-0017",
+    "almacenId": "ALM-006",
+    "numeroLote": "L5683",
+    "fechaVencimiento": "2027-09-23",
+    "cantidad": 27,
+    "fechaIngreso": "2026-07-23"
+  },
+  {
+    "id": "LOT-00152",
+    "suministroId": "SUM-0017",
+    "almacenId": "ALM-006",
+    "numeroLote": "L1437",
+    "fechaVencimiento": "2027-03-16",
+    "cantidad": 21,
+    "fechaIngreso": "2026-07-23"
+  },
+  {
+    "id": "LOT-00153",
+    "suministroId": "SUM-0018",
+    "almacenId": "ALM-006",
+    "numeroLote": "L9674",
+    "fechaVencimiento": "2027-02-23",
+    "cantidad": 74,
+    "fechaIngreso": "2026-07-23"
+  },
+  {
+    "id": "LOT-00154",
+    "suministroId": "SUM-0025",
+    "almacenId": "ALM-006",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 26,
+    "fechaIngreso": "2026-07-23"
+  },
+  {
+    "id": "LOT-00155",
+    "suministroId": "SUM-0026",
+    "almacenId": "ALM-006",
+    "numeroLote": "L9518",
+    "fechaVencimiento": "2027-11-02",
+    "cantidad": 6,
+    "fechaIngreso": "2026-07-23"
+  },
+  {
+    "id": "LOT-00156",
+    "suministroId": "SUM-0013",
+    "almacenId": "ALM-008",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 31,
+    "fechaIngreso": "2026-07-23"
+  },
+  {
+    "id": "LOT-00157",
+    "suministroId": "SUM-0017",
+    "almacenId": "ALM-008",
+    "numeroLote": "L8906",
+    "fechaVencimiento": "2027-11-03",
+    "cantidad": 33,
+    "fechaIngreso": "2026-07-23"
+  },
+  {
+    "id": "LOT-00158",
+    "suministroId": "SUM-0019",
+    "almacenId": "ALM-008",
+    "numeroLote": "L4149",
+    "fechaVencimiento": "2027-09-12",
+    "cantidad": 15,
+    "fechaIngreso": "2026-07-23"
+  },
+  {
+    "id": "LOT-00159",
+    "suministroId": "SUM-0020",
+    "almacenId": "ALM-008",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 71,
+    "fechaIngreso": "2026-07-23"
+  },
+  {
+    "id": "LOT-00160",
+    "suministroId": "SUM-0021",
+    "almacenId": "ALM-008",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 39,
+    "fechaIngreso": "2026-07-23"
+  },
+  {
+    "id": "LOT-00161",
+    "suministroId": "SUM-0022",
+    "almacenId": "ALM-008",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 27,
+    "fechaIngreso": "2026-07-23"
+  },
+  {
+    "id": "LOT-00162",
+    "suministroId": "SUM-0027",
+    "almacenId": "ALM-008",
+    "numeroLote": "L4933",
+    "fechaVencimiento": "2027-04-18",
+    "cantidad": 3,
+    "fechaIngreso": "2026-07-23"
+  },
+  {
+    "id": "LOT-00163",
+    "suministroId": "SUM-0028",
+    "almacenId": "ALM-008",
+    "numeroLote": "L1974",
+    "fechaVencimiento": "2027-01-15",
+    "cantidad": 19,
+    "fechaIngreso": "2026-07-23"
+  },
+  {
+    "id": "LOT-00164",
+    "suministroId": "SUM-0011",
+    "almacenId": "ALM-012",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 36,
+    "fechaIngreso": "2026-07-24"
+  },
+  {
+    "id": "LOT-00165",
+    "suministroId": "SUM-0012",
+    "almacenId": "ALM-012",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 30,
+    "fechaIngreso": "2026-07-24"
+  },
+  {
+    "id": "LOT-00166",
+    "suministroId": "SUM-0013",
+    "almacenId": "ALM-012",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 14,
+    "fechaIngreso": "2026-07-24"
+  },
+  {
+    "id": "LOT-00167",
+    "suministroId": "SUM-0016",
+    "almacenId": "ALM-012",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 28,
+    "fechaIngreso": "2026-07-24"
+  },
+  {
+    "id": "LOT-00168",
+    "suministroId": "SUM-0017",
+    "almacenId": "ALM-012",
+    "numeroLote": "L6200",
+    "fechaVencimiento": "2027-02-15",
+    "cantidad": 31,
+    "fechaIngreso": "2026-07-24"
+  },
+  {
+    "id": "LOT-00169",
+    "suministroId": "SUM-0022",
+    "almacenId": "ALM-012",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 0,
+    "fechaIngreso": "2026-07-24"
+  },
+  {
+    "id": "LOT-00170",
+    "suministroId": "SUM-0024",
+    "almacenId": "ALM-012",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 2,
+    "fechaIngreso": "2026-07-24"
+  },
+  {
+    "id": "LOT-00171",
+    "suministroId": "SUM-0026",
+    "almacenId": "ALM-012",
+    "numeroLote": "L0281",
+    "fechaVencimiento": "2027-06-06",
+    "cantidad": 4,
+    "fechaIngreso": "2026-07-24"
+  },
+  {
+    "id": "LOT-00172",
+    "suministroId": "SUM-0028",
+    "almacenId": "ALM-012",
+    "numeroLote": "L9660",
+    "fechaVencimiento": "2027-10-04",
+    "cantidad": 17,
+    "fechaIngreso": "2026-07-24"
+  },
+  {
+    "id": "LOT-00173",
+    "suministroId": "SUM-0029",
+    "almacenId": "ALM-012",
+    "numeroLote": "L9339",
+    "fechaVencimiento": "2026-11-07",
+    "cantidad": 42,
+    "fechaIngreso": "2026-07-24"
+  },
+  {
+    "id": "LOT-00174",
+    "suministroId": "SUM-0003",
+    "almacenId": "ALM-001",
+    "numeroLote": "L1160",
+    "fechaVencimiento": "2027-12-17",
+    "cantidad": 16,
+    "fechaIngreso": "2026-08-17"
+  },
+  {
+    "id": "LOT-00175",
+    "suministroId": "SUM-0011",
+    "almacenId": "ALM-008",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 41,
+    "fechaIngreso": "2026-08-17"
+  },
+  {
+    "id": "LOT-00176",
+    "suministroId": "SUM-0014",
+    "almacenId": "ALM-008",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 14,
+    "fechaIngreso": "2026-08-17"
+  },
+  {
+    "id": "LOT-00177",
+    "suministroId": "SUM-0015",
+    "almacenId": "ALM-008",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 0,
+    "fechaIngreso": "2026-08-17"
+  },
+  {
+    "id": "LOT-00178",
+    "suministroId": "SUM-0017",
+    "almacenId": "ALM-008",
+    "numeroLote": "L4674",
+    "fechaVencimiento": "2027-10-10",
+    "cantidad": 45,
+    "fechaIngreso": "2026-08-17"
+  },
+  {
+    "id": "LOT-00179",
+    "suministroId": "SUM-0023",
+    "almacenId": "ALM-008",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 6,
+    "fechaIngreso": "2026-08-17"
+  },
+  {
+    "id": "LOT-00180",
+    "suministroId": "SUM-0024",
+    "almacenId": "ALM-008",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 18,
+    "fechaIngreso": "2026-08-17"
+  },
+  {
+    "id": "LOT-00181",
+    "suministroId": "SUM-0025",
+    "almacenId": "ALM-008",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 11,
+    "fechaIngreso": "2026-08-17"
+  },
+  {
+    "id": "LOT-00182",
+    "suministroId": "SUM-0026",
+    "almacenId": "ALM-008",
+    "numeroLote": "L2117",
+    "fechaVencimiento": "2026-10-22",
+    "cantidad": 3,
+    "fechaIngreso": "2026-08-17"
+  },
+  {
+    "id": "LOT-00183",
+    "suministroId": "SUM-0026",
+    "almacenId": "ALM-008",
+    "numeroLote": "L9596",
+    "fechaVencimiento": "2027-06-18",
+    "cantidad": 4,
+    "fechaIngreso": "2026-08-17"
+  },
+  {
+    "id": "LOT-00184",
+    "suministroId": "SUM-0013",
+    "almacenId": "ALM-006",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 51,
+    "fechaIngreso": "2026-08-18"
+  },
+  {
+    "id": "LOT-00185",
+    "suministroId": "SUM-0022",
+    "almacenId": "ALM-006",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 4,
+    "fechaIngreso": "2026-08-18"
+  },
+  {
+    "id": "LOT-00186",
+    "suministroId": "SUM-0023",
+    "almacenId": "ALM-006",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 10,
+    "fechaIngreso": "2026-08-18"
+  },
+  {
+    "id": "LOT-00187",
+    "suministroId": "SUM-0028",
+    "almacenId": "ALM-006",
+    "numeroLote": "L4105",
+    "fechaVencimiento": "2027-12-04",
+    "cantidad": 0,
+    "fechaIngreso": "2026-08-18"
+  },
+  {
+    "id": "LOT-00188",
+    "suministroId": "SUM-0029",
+    "almacenId": "ALM-006",
+    "numeroLote": "L2587",
+    "fechaVencimiento": "2026-10-28",
+    "cantidad": 51,
+    "fechaIngreso": "2026-08-18"
+  },
+  {
+    "id": "LOT-00189",
+    "suministroId": "SUM-0012",
+    "almacenId": "ALM-016",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 0,
+    "fechaIngreso": "2026-08-18"
+  },
+  {
+    "id": "LOT-00190",
+    "suministroId": "SUM-0013",
+    "almacenId": "ALM-016",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 38,
+    "fechaIngreso": "2026-08-18"
+  },
+  {
+    "id": "LOT-00191",
+    "suministroId": "SUM-0014",
+    "almacenId": "ALM-016",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 29,
+    "fechaIngreso": "2026-08-18"
+  },
+  {
+    "id": "LOT-00192",
+    "suministroId": "SUM-0015",
+    "almacenId": "ALM-016",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 18,
+    "fechaIngreso": "2026-08-18"
+  },
+  {
+    "id": "LOT-00193",
+    "suministroId": "SUM-0016",
+    "almacenId": "ALM-016",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 14,
+    "fechaIngreso": "2026-08-18"
+  },
+  {
+    "id": "LOT-00194",
+    "suministroId": "SUM-0021",
+    "almacenId": "ALM-016",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 71,
+    "fechaIngreso": "2026-08-18"
+  },
+  {
+    "id": "LOT-00195",
+    "suministroId": "SUM-0023",
+    "almacenId": "ALM-016",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 6,
+    "fechaIngreso": "2026-08-18"
+  },
+  {
+    "id": "LOT-00196",
+    "suministroId": "SUM-0026",
+    "almacenId": "ALM-016",
+    "numeroLote": "L8295",
+    "fechaVencimiento": "2027-05-29",
+    "cantidad": 4,
+    "fechaIngreso": "2026-08-18"
+  },
+  {
+    "id": "LOT-00197",
+    "suministroId": "SUM-0029",
+    "almacenId": "ALM-016",
+    "numeroLote": "L5373",
+    "fechaVencimiento": "2027-02-15",
+    "cantidad": 15,
+    "fechaIngreso": "2026-08-18"
+  },
+  {
+    "id": "LOT-00198",
+    "suministroId": "SUM-0029",
+    "almacenId": "ALM-016",
+    "numeroLote": "L9495",
+    "fechaVencimiento": "2027-07-09",
+    "cantidad": 22,
+    "fechaIngreso": "2026-08-18"
+  },
+  {
+    "id": "LOT-00199",
+    "suministroId": "SUM-0030",
+    "almacenId": "ALM-016",
+    "numeroLote": "L2273",
+    "fechaVencimiento": "2027-01-13",
+    "cantidad": 4,
+    "fechaIngreso": "2026-08-18"
+  },
+  {
+    "id": "LOT-00200",
+    "suministroId": "SUM-0004",
+    "almacenId": "ALM-007",
+    "numeroLote": "L5854",
+    "fechaVencimiento": "2026-10-14",
+    "cantidad": 48,
+    "fechaIngreso": "2026-08-19"
+  },
+  {
+    "id": "LOT-00201",
+    "suministroId": "SUM-0007",
+    "almacenId": "ALM-007",
+    "numeroLote": "L7421",
+    "fechaVencimiento": "2026-10-08",
+    "cantidad": 19,
+    "fechaIngreso": "2026-08-19"
+  },
+  {
+    "id": "LOT-00202",
+    "suministroId": "SUM-0009",
+    "almacenId": "ALM-007",
+    "numeroLote": "L1736",
+    "fechaVencimiento": "2026-11-13",
+    "cantidad": 8,
+    "fechaIngreso": "2026-08-19"
+  },
+  {
+    "id": "LOT-00203",
+    "suministroId": "SUM-0010",
+    "almacenId": "ALM-007",
+    "numeroLote": "L0608",
+    "fechaVencimiento": "2027-09-25",
+    "cantidad": 24,
+    "fechaIngreso": "2026-08-19"
+  },
+  {
+    "id": "LOT-00204",
+    "suministroId": "SUM-0001",
+    "almacenId": "ALM-011",
+    "numeroLote": "L4536",
+    "fechaVencimiento": "2027-06-17",
+    "cantidad": 0,
+    "fechaIngreso": "2026-08-19"
+  },
+  {
+    "id": "LOT-00205",
+    "suministroId": "SUM-0003",
+    "almacenId": "ALM-011",
+    "numeroLote": "L3734",
+    "fechaVencimiento": "2027-12-14",
+    "cantidad": 26,
+    "fechaIngreso": "2026-08-19"
+  },
+  {
+    "id": "LOT-00206",
+    "suministroId": "SUM-0004",
+    "almacenId": "ALM-011",
+    "numeroLote": "L9086",
+    "fechaVencimiento": "2027-09-29",
+    "cantidad": 148,
+    "fechaIngreso": "2026-08-19"
+  },
+  {
+    "id": "LOT-00207",
+    "suministroId": "SUM-0005",
+    "almacenId": "ALM-011",
+    "numeroLote": "L4665",
+    "fechaVencimiento": "2027-07-12",
+    "cantidad": 34,
+    "fechaIngreso": "2026-08-19"
+  },
+  {
+    "id": "LOT-00208",
+    "suministroId": "SUM-0009",
+    "almacenId": "ALM-011",
+    "numeroLote": "L1799",
+    "fechaVencimiento": "2027-06-19",
+    "cantidad": 6,
+    "fechaIngreso": "2026-08-19"
+  },
+  {
+    "id": "LOT-00209",
+    "suministroId": "SUM-0004",
+    "almacenId": "ALM-015",
+    "numeroLote": "L9261",
+    "fechaVencimiento": "2026-10-10",
+    "cantidad": 116,
+    "fechaIngreso": "2026-08-19"
+  },
+  {
+    "id": "LOT-00210",
+    "suministroId": "SUM-0007",
+    "almacenId": "ALM-015",
+    "numeroLote": "L6364",
+    "fechaVencimiento": "2027-11-16",
+    "cantidad": 14,
+    "fechaIngreso": "2026-08-19"
+  },
+  {
+    "id": "LOT-00211",
+    "suministroId": "SUM-0009",
+    "almacenId": "ALM-015",
+    "numeroLote": "L5418",
+    "fechaVencimiento": "2027-07-02",
+    "cantidad": 8,
+    "fechaIngreso": "2026-08-19"
+  },
+  {
+    "id": "LOT-00212",
+    "suministroId": "SUM-0014",
+    "almacenId": "ALM-002",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 29,
+    "fechaIngreso": "2026-08-20"
+  },
+  {
+    "id": "LOT-00213",
+    "suministroId": "SUM-0016",
+    "almacenId": "ALM-002",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 42,
+    "fechaIngreso": "2026-08-20"
+  },
+  {
+    "id": "LOT-00214",
+    "suministroId": "SUM-0017",
+    "almacenId": "ALM-002",
+    "numeroLote": "L0718",
+    "fechaVencimiento": "2027-12-24",
+    "cantidad": 42,
+    "fechaIngreso": "2026-08-20"
+  },
+  {
+    "id": "LOT-00215",
+    "suministroId": "SUM-0018",
+    "almacenId": "ALM-002",
+    "numeroLote": "L2403",
+    "fechaVencimiento": "2027-11-14",
+    "cantidad": 70,
+    "fechaIngreso": "2026-08-20"
+  },
+  {
+    "id": "LOT-00216",
+    "suministroId": "SUM-0020",
+    "almacenId": "ALM-002",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 58,
+    "fechaIngreso": "2026-08-20"
+  },
+  {
+    "id": "LOT-00217",
+    "suministroId": "SUM-0024",
+    "almacenId": "ALM-002",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 4,
+    "fechaIngreso": "2026-08-20"
+  },
+  {
+    "id": "LOT-00218",
+    "suministroId": "SUM-0026",
+    "almacenId": "ALM-002",
+    "numeroLote": "L7506",
+    "fechaVencimiento": "2026-10-28",
+    "cantidad": 5,
+    "fechaIngreso": "2026-08-20"
+  },
+  {
+    "id": "LOT-00219",
+    "suministroId": "SUM-0027",
+    "almacenId": "ALM-002",
+    "numeroLote": "L6959",
+    "fechaVencimiento": "2027-06-04",
+    "cantidad": 2,
+    "fechaIngreso": "2026-08-20"
+  },
+  {
+    "id": "LOT-00220",
+    "suministroId": "SUM-0027",
+    "almacenId": "ALM-002",
+    "numeroLote": "L5134",
+    "fechaVencimiento": "2027-07-05",
+    "cantidad": 6,
+    "fechaIngreso": "2026-08-20"
+  },
+  {
+    "id": "LOT-00221",
+    "suministroId": "SUM-0029",
+    "almacenId": "ALM-002",
+    "numeroLote": "L8177",
+    "fechaVencimiento": "2026-12-08",
+    "cantidad": 42,
+    "fechaIngreso": "2026-08-20"
+  },
+  {
+    "id": "LOT-00222",
+    "suministroId": "SUM-0030",
+    "almacenId": "ALM-002",
+    "numeroLote": "L8901",
+    "fechaVencimiento": "2027-10-11",
+    "cantidad": 1,
+    "fechaIngreso": "2026-08-20"
+  },
+  {
+    "id": "LOT-00223",
+    "suministroId": "SUM-0001",
+    "almacenId": "ALM-009",
+    "numeroLote": "L6869",
+    "fechaVencimiento": "2027-08-17",
+    "cantidad": 147,
+    "fechaIngreso": "2026-08-20"
+  },
+  {
+    "id": "LOT-00224",
+    "suministroId": "SUM-0002",
+    "almacenId": "ALM-009",
+    "numeroLote": "L4470",
+    "fechaVencimiento": "2027-02-26",
+    "cantidad": 25,
+    "fechaIngreso": "2026-08-20"
+  },
+  {
+    "id": "LOT-00225",
+    "suministroId": "SUM-0002",
+    "almacenId": "ALM-009",
+    "numeroLote": "L0380",
+    "fechaVencimiento": "2026-12-19",
+    "cantidad": 36,
+    "fechaIngreso": "2026-08-20"
+  },
+  {
+    "id": "LOT-00226",
+    "suministroId": "SUM-0006",
+    "almacenId": "ALM-009",
+    "numeroLote": "L6161",
+    "fechaVencimiento": "2026-10-25",
+    "cantidad": 23,
+    "fechaIngreso": "2026-08-20"
+  },
+  {
+    "id": "LOT-00227",
+    "suministroId": "SUM-0009",
+    "almacenId": "ALM-009",
+    "numeroLote": "L6915",
+    "fechaVencimiento": "2027-12-04",
+    "cantidad": 14,
+    "fechaIngreso": "2026-08-20"
+  },
+  {
+    "id": "LOT-00228",
+    "suministroId": "SUM-0015",
+    "almacenId": "ALM-012",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 21,
+    "fechaIngreso": "2026-08-23"
+  },
+  {
+    "id": "LOT-00229",
+    "suministroId": "SUM-0018",
+    "almacenId": "ALM-012",
+    "numeroLote": "L7198",
+    "fechaVencimiento": "2027-08-05",
+    "cantidad": 11,
+    "fechaIngreso": "2026-08-23"
+  },
+  {
+    "id": "LOT-00230",
+    "suministroId": "SUM-0027",
+    "almacenId": "ALM-012",
+    "numeroLote": "L3871",
+    "fechaVencimiento": "2027-07-10",
+    "cantidad": 7,
+    "fechaIngreso": "2026-08-23"
+  },
+  {
+    "id": "LOT-00231",
+    "suministroId": "SUM-0013",
+    "almacenId": "ALM-014",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 54,
+    "fechaIngreso": "2026-08-24"
+  },
+  {
+    "id": "LOT-00232",
+    "suministroId": "SUM-0015",
+    "almacenId": "ALM-014",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 4,
+    "fechaIngreso": "2026-08-24"
+  },
+  {
+    "id": "LOT-00233",
+    "suministroId": "SUM-0025",
+    "almacenId": "ALM-014",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 24,
+    "fechaIngreso": "2026-08-24"
+  },
+  {
+    "id": "LOT-00234",
+    "suministroId": "SUM-0001",
+    "almacenId": "ALM-005",
+    "numeroLote": "L6789",
+    "fechaVencimiento": "2027-11-10",
+    "cantidad": 114,
+    "fechaIngreso": "2026-08-25"
+  },
+  {
+    "id": "LOT-00235",
+    "suministroId": "SUM-0006",
+    "almacenId": "ALM-005",
+    "numeroLote": "L2599",
+    "fechaVencimiento": "2027-03-21",
+    "cantidad": 23,
+    "fechaIngreso": "2026-08-25"
+  },
+  {
+    "id": "LOT-00236",
+    "suministroId": "SUM-0008",
+    "almacenId": "ALM-005",
+    "numeroLote": "L2182",
+    "fechaVencimiento": "2027-12-30",
+    "cantidad": 59,
+    "fechaIngreso": "2026-08-25"
+  },
+  {
+    "id": "LOT-00237",
+    "suministroId": "SUM-0009",
+    "almacenId": "ALM-005",
+    "numeroLote": "L3372",
+    "fechaVencimiento": "2027-02-26",
+    "cantidad": 7,
+    "fechaIngreso": "2026-08-25"
+  },
+  {
+    "id": "LOT-00238",
+    "suministroId": "SUM-0011",
+    "almacenId": "ALM-010",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 45,
+    "fechaIngreso": "2026-08-25"
+  },
+  {
+    "id": "LOT-00239",
+    "suministroId": "SUM-0012",
+    "almacenId": "ALM-010",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 2,
+    "fechaIngreso": "2026-08-25"
+  },
+  {
+    "id": "LOT-00240",
+    "suministroId": "SUM-0018",
+    "almacenId": "ALM-010",
+    "numeroLote": "L9526",
+    "fechaVencimiento": "2027-03-07",
+    "cantidad": 26,
+    "fechaIngreso": "2026-08-25"
+  },
+  {
+    "id": "LOT-00241",
+    "suministroId": "SUM-0018",
+    "almacenId": "ALM-010",
+    "numeroLote": "L8209",
+    "fechaVencimiento": "2027-11-21",
+    "cantidad": 26,
+    "fechaIngreso": "2026-08-25"
+  },
+  {
+    "id": "LOT-00242",
+    "suministroId": "SUM-0019",
+    "almacenId": "ALM-010",
+    "numeroLote": "L6511",
+    "fechaVencimiento": "2027-09-05",
+    "cantidad": 0,
+    "fechaIngreso": "2026-08-25"
+  },
+  {
+    "id": "LOT-00243",
+    "suministroId": "SUM-0029",
+    "almacenId": "ALM-010",
+    "numeroLote": "L4649",
+    "fechaVencimiento": "2027-11-25",
+    "cantidad": 13,
+    "fechaIngreso": "2026-08-25"
+  },
+  {
+    "id": "LOT-00244",
+    "suministroId": "SUM-0001",
+    "almacenId": "ALM-003",
+    "numeroLote": "L0564",
+    "fechaVencimiento": "2027-08-16",
+    "cantidad": 44,
+    "fechaIngreso": "2026-08-26"
+  },
+  {
+    "id": "LOT-00245",
+    "suministroId": "SUM-0002",
+    "almacenId": "ALM-003",
+    "numeroLote": "L5337",
+    "fechaVencimiento": "2027-03-19",
+    "cantidad": 56,
+    "fechaIngreso": "2026-08-26"
+  },
+  {
+    "id": "LOT-00246",
+    "suministroId": "SUM-0004",
+    "almacenId": "ALM-003",
+    "numeroLote": "L6809",
+    "fechaVencimiento": "2027-11-29",
+    "cantidad": 117,
+    "fechaIngreso": "2026-08-26"
+  },
+  {
+    "id": "LOT-00247",
+    "suministroId": "SUM-0004",
+    "almacenId": "ALM-003",
+    "numeroLote": "L7395",
+    "fechaVencimiento": "2027-11-10",
+    "cantidad": 99,
+    "fechaIngreso": "2026-08-26"
+  },
+  {
+    "id": "LOT-00248",
+    "suministroId": "SUM-0008",
+    "almacenId": "ALM-003",
+    "numeroLote": "L9256",
+    "fechaVencimiento": "2027-07-18",
+    "cantidad": 139,
+    "fechaIngreso": "2026-08-26"
+  },
+  {
+    "id": "LOT-00249",
+    "suministroId": "SUM-0009",
+    "almacenId": "ALM-003",
+    "numeroLote": "L7921",
+    "fechaVencimiento": "2027-04-25",
+    "cantidad": 0,
+    "fechaIngreso": "2026-08-26"
+  },
+  {
+    "id": "LOT-00250",
+    "suministroId": "SUM-0012",
+    "almacenId": "ALM-004",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 24,
+    "fechaIngreso": "2026-08-26"
+  },
+  {
+    "id": "LOT-00251",
+    "suministroId": "SUM-0014",
+    "almacenId": "ALM-004",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 19,
+    "fechaIngreso": "2026-08-26"
+  },
+  {
+    "id": "LOT-00252",
+    "suministroId": "SUM-0016",
+    "almacenId": "ALM-004",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 23,
+    "fechaIngreso": "2026-08-26"
+  },
+  {
+    "id": "LOT-00253",
+    "suministroId": "SUM-0019",
+    "almacenId": "ALM-004",
+    "numeroLote": "L4290",
+    "fechaVencimiento": "2026-11-01",
+    "cantidad": 16,
+    "fechaIngreso": "2026-08-26"
+  },
+  {
+    "id": "LOT-00254",
+    "suministroId": "SUM-0020",
+    "almacenId": "ALM-004",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 38,
+    "fechaIngreso": "2026-08-26"
+  },
+  {
+    "id": "LOT-00255",
+    "suministroId": "SUM-0022",
+    "almacenId": "ALM-004",
+    "numeroLote": null,
+    "fechaVencimiento": null,
+    "cantidad": 73,
+    "fechaIngreso": "2026-08-26"
+  },
+  {
+    "id": "LOT-00256",
+    "suministroId": "SUM-0001",
+    "almacenId": "ALM-013",
+    "numeroLote": "L2696",
+    "fechaVencimiento": "2027-03-01",
+    "cantidad": 85,
+    "fechaIngreso": "2026-08-27"
+  },
+  {
+    "id": "LOT-00257",
+    "suministroId": "SUM-0005",
+    "almacenId": "ALM-013",
+    "numeroLote": "L5284",
+    "fechaVencimiento": "2027-08-11",
+    "cantidad": 38,
+    "fechaIngreso": "2026-08-27"
+  },
+  {
+    "id": "LOT-00258",
+    "suministroId": "SUM-0007",
+    "almacenId": "ALM-013",
+    "numeroLote": "L5985",
+    "fechaVencimiento": "2027-03-05",
+    "cantidad": 19,
+    "fechaIngreso": "2026-08-27"
+  },
+  {
+    "id": "LOT-00259",
+    "suministroId": "SUM-0017",
+    "almacenId": "ALM-002",
+    "numeroLote": "L1437",
+    "fechaVencimiento": "2027-03-16",
+    "cantidad": 8,
+    "fechaIngreso": "2026-10-08"
+  },
+  {
+    "id": "LOT-00260",
+    "suministroId": "SUM-0004",
+    "almacenId": "ALM-003",
+    "numeroLote": "L3758",
+    "fechaVencimiento": "2027-03-27",
+    "cantidad": 15,
+    "fechaIngreso": "2026-10-11"
+  },
+  {
+    "id": "LOT-00261",
+    "suministroId": "SUM-0003",
+    "almacenId": "ALM-013",
+    "numeroLote": "L3734",
+    "fechaVencimiento": "2027-12-14",
+    "cantidad": 11,
+    "fechaIngreso": "2026-10-12"
+  }
+]

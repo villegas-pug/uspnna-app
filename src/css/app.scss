@@ -1,0 +1,740 @@
+// Sistema de diseño "Inventarios USPNNA" aplicado a Quasar 2.
+// 1) Tokens como variables CSS. 2) Overrides sobre clases de Quasar (nunca selectores globales de elementos).
+// 3) Utilidades. Los estilos propios de cada componente viven en su <style scoped>.
+
+// ---------------------------------------------------------------------------
+// 1. Tokens
+// ---------------------------------------------------------------------------
+:root {
+  // Rojos INABIF / SISEC
+  --inabif-red: #ed1c24;
+  --inabif-red-dark: #bf0411;
+  --inabif-red-title: #d8282f;
+  --red-gradient-end: #d63031;
+  --red-hover: #a3030f;
+  --red-hover-end: #c0392b;
+  --sisec-coral: #f56a6a;
+  --toolbar-icon: #ef5350;
+
+  // Azules
+  --inabif-blue: #143d8c;
+  --inabif-blue-bar: #1d4fa0;
+  --inabif-blue-tint: #dee8f5;
+  --quasar-blue: #1976d2;
+
+  // Superficies
+  --surface: #ffffff;
+  --drawer-bg: #f5f6f7;
+  --drawer-ink: #3d4449;
+  --surface-section: #f5f7fa;
+  --surface-sunken: #f8fafc;
+  --surface-context: #f8fbff;
+  --toolbar-bg: #f0f4f8;
+  --row-zebra: #fafbfc;
+  --row-highlight: #f3f8ff;
+  --menu-item-hover: #f4f8ff;
+  --menu-item-danger-hover: #fff2f2;
+  --menu-hover: #c0c0c0;
+  --field-readonly: #f5f5f5;
+  --hero-bg: #dbe8f8;
+
+  // Texto
+  --ink: #000000;
+  --ink-label: #1a1a1a;
+  --ink-strong: #111827;
+  --ink-dialog: #1f2d3d;
+  --ink-section: #2d3748;
+  --ink-caption: #5b7083;
+  --ink-muted: #617187;
+
+  // Bordes
+  --border-content: #d9e0e8;
+  --border-card: #e4ebf3;
+  --border-panel: #c8c8c8;
+  --border-soft: #e6edf5;
+  --border-dialog: #dbe5ef;
+  --border-context: #d9e2ec;
+  --border-readonly: #e0e0e0;
+  --border-field: rgba(0, 0, 0, 0.15);
+  --border-table: rgba(0, 0, 0, 0.12);
+  --border-control: #8a94a3;
+
+  // Indicadores
+  --kpi-blue: #2f65d9;
+  --kpi-blue-tint: #dce8fb;
+  --kpi-red-tint: #ffe0e2;
+  --kpi-green: #3ca36f;
+  --kpi-green-tint: #ddf3e2;
+  --kpi-purple: #8756d9;
+  --kpi-purple-tint: #eadff8;
+
+  // Avisos
+  --notice-bg: #fff8e8;
+  --notice-border: #f5d9a6;
+  --notice-ink: #8a5a00;
+  --info-bg: #e8f4fd;
+  --info-bar: #0288d1;
+  --info-ink: #01579b;
+
+  // Filas de resultado (totales)
+  --result-ok-bg: #d4edda;
+  --result-ok-bar: #28a745;
+  --result-bad-bg: #f8d7da;
+  --result-bad-bar: #dc3545;
+  --result-obs-bg: #fff3cd;
+  --result-obs-bar: #ffc107;
+  --result-na-bg: #e9ecef;
+  --result-na-bar: #6c757d;
+
+  // Semánticos
+  --primary: var(--inabif-red-dark);
+  --on-primary: #ffffff;
+  --secondary: var(--inabif-blue);
+  --negative: #c10015;
+  --status-success-ink: #1f6e45;
+  --status-danger-ink: #b3131a;
+  --status-warning-ink: var(--notice-ink);
+  --status-info-ink: var(--inabif-blue);
+  --status-extra-ink: #5b33a6;
+  --status-neutral-bg: #eceff3;
+  --focus-ring: var(--inabif-red-dark);
+
+  // Tipografía
+  --font-sans: Calibri, Carlito, 'Segoe UI', Arial, sans-serif;
+  --font-icons: 'Material Icons';
+
+  // Espaciado
+  --space-4: 4px;
+  --space-6: 6px;
+  --space-8: 8px;
+  --space-10: 10px;
+  --space-12: 12px;
+  --space-14: 14px;
+  --space-16: 16px;
+  --space-18: 18px;
+  --space-20: 20px;
+  --space-24: 24px;
+  --space-34: 34px;
+
+  // Radios
+  --radius-frame: 2px;
+  --radius-btn: 3px;
+  --radius-field: 4px;
+  --radius-dialog: 6px;
+  --radius-box: 8px;
+  --radius-field-lg: 9px;
+  --radius-menu: 10px;
+  --radius-panel: 16px;
+  --radius-card: 18px;
+  --radius-hero: 30px;
+  --radius-pill: 999px;
+
+  // Sombras
+  --shadow-hero: 0 14px 32px rgba(20, 58, 120, 0.08);
+  --shadow-dialog: 0 10px 28px rgba(0, 0, 0, 0.22);
+  --shadow-dialog-lg: 0 18px 46px rgba(15, 23, 42, 0.24);
+  --shadow-menu: 0 8px 18px rgba(15, 35, 60, 0.18);
+  --shadow-fab: 0 8px 18px rgba(0, 0, 0, 0.24);
+  --shadow-section: 0 2px 8px rgba(0, 0, 0, 0.08);
+  --shadow-context: 0 2px 6px rgba(15, 23, 42, 0.05);
+  --shadow-focus-field: 0 0 0 3px rgba(191, 4, 17, 0.12);
+  --shadow-active-bar: 4px 0 14px 2px rgba(237, 28, 36, 0.45);
+
+  // Tamaños
+  --toolbar-height: 60px;
+  --header-border: 5px;
+  --drawer-width: 300px;
+  --drawer-item: 32px;
+  --logo-width-lg: 360px;
+  --logo-width-md: 180px;
+  --kpi-icon: 72px;
+  --control-height: 40px;
+  --button-height: 36px;
+  --row-action: 32px;
+  --menu-item-height: 48px;
+  --touch-target: 44px;
+  --fab: 56px;
+  --dialog-sm: 420px;
+  --dialog-md: 520px;
+  --dialog-lg: 760px;
+  --dialog-xl: 900px;
+}
+
+@media (max-width: 1024px) {
+  :root {
+    --kpi-icon: 64px;
+  }
+}
+
+@media (max-width: 599.98px) {
+  :root {
+    --menu-item-height: 44px;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// 2. Overrides sobre clases de Quasar
+// ---------------------------------------------------------------------------
+
+// Fondo y texto base explícitos: sin ello el navegador pinta el lienzo por defecto (negro en el panel integrado)
+html,
+body {
+  background: var(--surface);
+  color: var(--ink);
+}
+
+// Raíz de la app: color de texto base (Quasar fija la familia con $typography-font-family)
+.q-layout,
+.q-dialog__inner,
+.q-menu {
+  color: var(--ink);
+}
+
+// Foco visible de SISEC en todo elemento interactivo
+.q-layout,
+.q-dialog,
+.q-menu {
+  :is(
+      a,
+      .q-btn,
+      .q-item,
+      .q-tab,
+      .q-checkbox,
+      .q-radio,
+      .q-toggle,
+      .q-chip--clickable,
+      .q-expansion-item .q-item,
+      [tabindex]:not([tabindex='-1'])
+    ):focus-visible {
+    outline: 2px solid var(--focus-ring);
+    outline-offset: 2px;
+  }
+}
+
+// QHeader + QToolbar
+.q-header.us-header {
+  background: var(--surface);
+  color: var(--ink);
+  border-bottom: var(--header-border) solid var(--sisec-coral);
+
+  .q-toolbar {
+    height: var(--toolbar-height);
+    min-height: var(--toolbar-height);
+    padding: 0 var(--space-12) 0 var(--space-8);
+    column-gap: var(--space-10);
+  }
+}
+
+@media (max-width: 599.98px) {
+  .q-header.us-header .q-toolbar {
+    padding: 0 var(--space-8) 0 4px;
+  }
+}
+
+// QDrawer: el atributo class de QDrawer se aplica sobre .q-drawer__content
+.q-drawer__content.us-drawer {
+  background: var(--drawer-bg);
+  color: var(--drawer-ink);
+}
+
+// QFooter
+.q-footer.us-footer {
+  background: var(--surface);
+  color: var(--ink);
+  border-top: 1px solid var(--border-soft);
+}
+
+// QBtn: etiquetas en mayúsculas a 13px (no los 10px de los listados de SISEC)
+.q-btn {
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+.q-btn.us-btn {
+  min-height: var(--button-height);
+  padding: 0 var(--space-16);
+  border-radius: var(--radius-btn);
+
+  .q-icon {
+    font-size: 20px;
+  }
+}
+
+.q-btn.us-btn--outline {
+  background: var(--surface) !important;
+
+  &::before {
+    border-color: var(--border-control);
+  }
+}
+
+.q-btn.us-btn[disabled],
+.q-btn.us-btn.disabled {
+  opacity: 0.45 !important;
+}
+
+@media (max-width: 599.98px) {
+  .q-btn.us-btn {
+    min-height: var(--touch-target);
+  }
+}
+
+// QField outlined
+.q-field--outlined {
+  .q-field__control {
+    border-radius: var(--radius-field);
+
+    &::before {
+      border-color: var(--border-control);
+    }
+  }
+
+  &.q-field--focused .q-field__control {
+    box-shadow: var(--shadow-focus-field);
+  }
+
+  &.q-field--readonly .q-field__control {
+    background: var(--field-readonly);
+
+    &::before {
+      border-style: solid;
+      border-color: var(--border-readonly);
+    }
+  }
+
+  &.q-field--disabled .q-field__control {
+    background: var(--field-readonly);
+  }
+}
+
+.q-field--disabled .q-field__control > div {
+  opacity: 0.7 !important;
+}
+
+.q-field__bottom {
+  font-size: 0.75rem;
+  line-height: 1.2;
+  color: var(--ink-muted);
+}
+
+@media (max-width: 599.98px) {
+  .q-field--dense:not(.q-textarea):not(.q-field--auto-height) {
+    .q-field__control,
+    .q-field__marginal {
+      height: var(--touch-target);
+    }
+  }
+}
+
+// Radios y casillas marcados en rojo de acción
+.q-radio__inner--truthy,
+.q-checkbox__inner--truthy {
+  color: var(--inabif-red-dark);
+}
+
+// QTable flat bordered dense (DataTable)
+.q-table__container.us-table {
+  background: var(--surface);
+  border-radius: var(--radius-field);
+
+  .q-table__top {
+    padding: var(--space-8) var(--space-12);
+  }
+
+  .q-table thead th {
+    background: var(--inabif-blue-tint);
+    color: var(--ink);
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 4px 8px 4px 16px;
+    white-space: nowrap;
+  }
+
+  .q-table tbody td {
+    font-size: 13px;
+    line-height: 20px;
+    height: 41px;
+    padding: 4px 8px 4px 16px;
+    border-color: var(--border-table);
+  }
+
+  .q-table tbody tr:hover > td {
+    background: var(--toolbar-bg);
+  }
+
+  .q-table__bottom {
+    font-size: 12px;
+    line-height: 18px;
+    min-height: 35px;
+    padding: 4px 14px 4px 16px;
+  }
+
+  &.q-table--grid {
+    background: transparent;
+  }
+}
+
+.q-table__container.us-table--sticky:not(.q-table--grid) {
+  .q-table__middle {
+    max-height: max(320px, calc(100vh - 230px));
+  }
+
+  thead tr th {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  }
+}
+
+.q-table__grid-content.us-record-list {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: var(--space-8);
+  padding: var(--space-8) 0;
+}
+
+// QMenu del menú de acciones
+.q-menu.us-menu {
+  min-width: 220px;
+  max-width: 280px;
+  border: 1px solid var(--border-soft);
+  border-radius: var(--radius-menu);
+  box-shadow: var(--shadow-menu);
+  padding: 4px 0;
+}
+
+@media (max-width: 599.98px) {
+  .q-menu.us-menu {
+    min-width: 196px;
+    max-width: 92vw;
+  }
+}
+
+// QTabs dentro de fichas
+.q-tabs.us-tabs {
+  color: var(--ink-dialog);
+  border-bottom: 1px solid var(--border-soft);
+
+  .q-tab__label {
+    font-size: 13px;
+    font-weight: 700;
+  }
+
+  .q-tab--active {
+    color: var(--inabif-red-dark);
+  }
+}
+
+// QDialog: el cuerpo es lo único que hace scroll
+.q-dialog__inner > .q-card.us-dialog {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background: var(--surface);
+}
+
+// QNotify negativo con icono warning y texto legible
+.q-notification {
+  font-size: 14px;
+}
+
+// QTimeline del historial
+.q-timeline.us-timeline {
+  .q-timeline__title {
+    font-size: 0.95rem;
+    font-weight: 700;
+    margin-bottom: 4px;
+  }
+
+  .q-timeline__subtitle {
+    font-size: 0.78rem;
+    opacity: 1;
+    color: var(--ink-muted);
+    text-transform: none;
+    letter-spacing: 0;
+  }
+}
+
+// QLinearProgress de avances
+.q-linear-progress.us-progress {
+  border-radius: var(--radius-pill);
+  overflow: hidden;
+}
+
+// ---------------------------------------------------------------------------
+// 3. Utilidades
+// ---------------------------------------------------------------------------
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.u-wrap {
+  white-space: normal;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+.u-ellipsis {
+  display: block;
+  max-width: 100%;
+  min-width: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.u-num {
+  font-variant-numeric: tabular-nums;
+}
+
+.u-muted {
+  color: var(--ink-muted);
+}
+
+.u-hint {
+  font-size: 0.78rem;
+  line-height: 1.4;
+  color: var(--ink-muted);
+}
+
+// Tarjeta contenedora de filtros y tabla en páginas de listado
+.us-card {
+  background: var(--surface);
+  border: 1px solid var(--border-table);
+  border-radius: var(--radius-field);
+  padding: var(--space-12);
+}
+
+// Grilla de formularios: 1 columna <600px, 2 en tablet, 3–4 en escritorio
+.us-form-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: var(--space-16);
+}
+
+@media (min-width: 600px) {
+  .us-form-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1024px) {
+  .us-form-grid--3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+.us-form-grid__full {
+  grid-column: 1 / -1;
+}
+
+// Separación vertical estándar entre bloques de una página
+.us-stack {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: var(--space-16);
+}
+
+.us-stack--lg {
+  gap: var(--space-24);
+}
+
+// ---------------------------------------------------------------------------
+// 4. Diálogos (compartidos por AppDialog y ConfirmDialog)
+// ---------------------------------------------------------------------------
+.q-dialog__inner > .us-dialog {
+  max-height: 90vh;
+  border-radius: var(--radius-dialog);
+  box-shadow: var(--shadow-dialog);
+}
+
+// Confirmación (dialog-sm)
+.q-dialog__inner > .us-dialog--sm {
+  width: var(--dialog-sm);
+  max-width: 92vw;
+}
+
+.us-dialog__title {
+  flex: 0 0 auto;
+  min-height: 44px;
+  padding: 12px 16px 10px;
+  background: var(--inabif-blue-tint);
+  color: var(--ink);
+  font-size: 14px;
+  line-height: 1.25;
+  font-weight: 700;
+}
+
+// Formulario corto (dialog-md), validación/cierre (dialog-lg) y ficha completa (dialog-xl)
+.q-dialog__inner > .us-dialog--md {
+  width: var(--dialog-md);
+  max-width: calc(100vw - 32px);
+  max-height: min(90vh, 680px);
+  border: 1px solid var(--border-dialog);
+  border-radius: var(--radius-panel);
+  box-shadow: var(--shadow-dialog-lg);
+}
+
+.q-dialog__inner > .us-dialog--lg {
+  width: var(--dialog-lg);
+  max-width: 92vw;
+  max-height: 86vh;
+  border-radius: var(--radius-menu);
+  box-shadow: var(--shadow-dialog-lg);
+}
+
+.q-dialog__inner > .us-dialog--xl {
+  width: 95%;
+  max-width: var(--dialog-xl);
+  max-height: 80vh;
+  box-shadow: var(--shadow-dialog-lg);
+}
+
+.q-dialog__inner > .us-dialog--maximized {
+  width: 100vw;
+  max-width: 100vw;
+  height: 100dvh;
+  max-height: 100dvh;
+  border-radius: 0;
+}
+
+.us-dialog__header {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--space-16);
+  min-height: 78px;
+  padding: 18px 20px;
+  border-bottom: 1px solid rgba(24, 96, 150, 0.12);
+}
+
+.us-dialog__heading {
+  display: flex;
+  gap: var(--space-12);
+  min-width: 0;
+  color: var(--ink-dialog);
+}
+
+.us-dialog__icon {
+  color: var(--inabif-blue);
+  margin-top: 2px;
+}
+
+.us-dialog__header-title {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.25;
+  font-weight: 700;
+  overflow-wrap: anywhere;
+}
+
+.us-dialog__subtitle {
+  margin: 4px 0 0;
+  font-size: 0.78rem;
+  line-height: 1.35;
+  color: var(--ink-muted);
+}
+
+.us-dialog__body {
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow-y: auto;
+  padding: var(--space-20);
+  color: var(--ink-dialog);
+  overflow-wrap: anywhere;
+}
+
+.us-dialog--sm .us-dialog__body {
+  padding: 18px 16px 12px;
+  font-size: 13px;
+  line-height: 1.45;
+}
+
+.us-dialog--lg .us-dialog__body {
+  background: var(--surface-sunken);
+}
+
+.us-dialog__actions {
+  flex: 0 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: var(--space-10);
+  padding: 14px 20px 18px;
+  border-top: 1px solid var(--border-soft);
+  background: var(--surface);
+
+  .q-btn.us-btn {
+    min-width: 112px;
+    min-height: var(--touch-target);
+    border-radius: var(--radius-field-lg);
+  }
+}
+
+.us-dialog--sm .us-dialog__actions {
+  padding: 10px 16px 16px;
+  border-top: 0;
+
+  .q-btn.us-btn {
+    min-width: 118px;
+    min-height: var(--button-height);
+    border-radius: var(--radius-btn);
+  }
+}
+
+// Campos del diálogo de formulario: 48px y radio grande
+.us-dialog--md,
+.us-dialog--lg {
+  .q-field--outlined.q-field--dense:not(.q-textarea):not(.q-field--auto-height) {
+    .q-field__control,
+    .q-field__marginal {
+      height: 48px;
+    }
+  }
+
+  .q-field--outlined .q-field__control {
+    border-radius: var(--radius-field-lg);
+  }
+}
+
+@media (max-width: 599.98px) {
+  .q-dialog__inner > .us-dialog--sm {
+    width: calc(100vw - 28px);
+    max-width: calc(100vw - 28px);
+  }
+
+  .q-dialog__inner > .us-dialog--md {
+    max-width: calc(100vw - 20px);
+    border-radius: 14px;
+  }
+
+  .q-dialog__inner > .us-dialog--lg {
+    max-height: 82vh;
+  }
+
+  .us-dialog__body {
+    padding: var(--space-12);
+  }
+
+  .us-dialog__actions {
+    flex-direction: column-reverse;
+    align-items: stretch;
+    padding: 12px 16px 16px;
+
+    .q-btn.us-btn {
+      width: 100%;
+    }
+  }
+}

@@ -1,0 +1,24 @@
+.DS_Store
+.thumbs.db
+node_modules
+
+# Quasar
+/dist
+/.quasar
+/quasar.config.*.temporary.compiled*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editores
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Variables locales
+.env.local*

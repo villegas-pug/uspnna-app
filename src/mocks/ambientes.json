@@ -1,0 +1,560 @@
+[
+  {
+    "id": "AMB-0001",
+    "establecimientoId": "CAR-01",
+    "nombre": "Dormitorio 1",
+    "tipo": "dormitorio",
+    "piso": "Piso 2",
+    "custodio": "Custodio 01 – Área de dormitorios",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0002",
+    "establecimientoId": "CAR-01",
+    "nombre": "Dormitorio 2",
+    "tipo": "dormitorio",
+    "piso": "Piso 2",
+    "custodio": "Custodio 02 – Área de dormitorios",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0003",
+    "establecimientoId": "CAR-01",
+    "nombre": "Cocina",
+    "tipo": "cocina",
+    "piso": "Piso 1",
+    "custodio": "Custodio 03 – Área de cocina",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0004",
+    "establecimientoId": "CAR-01",
+    "nombre": "Comedor",
+    "tipo": "comedor",
+    "piso": "Piso 1",
+    "custodio": "Custodio 04 – Área de comedor",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0005",
+    "establecimientoId": "CAR-01",
+    "nombre": "Oficina de dirección",
+    "tipo": "oficina",
+    "piso": "Piso 1",
+    "custodio": "Custodio 05 – Dirección",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0006",
+    "establecimientoId": "CAR-01",
+    "nombre": "Tópico",
+    "tipo": "salud",
+    "piso": "Piso 1",
+    "custodio": "Custodio 06 – Área de salud",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0007",
+    "establecimientoId": "CAR-01",
+    "nombre": "Sala de estudio",
+    "tipo": "estudio",
+    "piso": "Piso 1",
+    "custodio": "Custodio 07 – Área educativa",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0008",
+    "establecimientoId": "CAR-01",
+    "nombre": "Lavandería",
+    "tipo": "servicios",
+    "piso": "Piso 1",
+    "custodio": "Custodio 08 – Servicios generales",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0009",
+    "establecimientoId": "CAR-01",
+    "nombre": "Sala de recreación",
+    "tipo": "recreacion",
+    "piso": "Piso 1",
+    "custodio": "Custodio 09 – Área de recreación",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0010",
+    "establecimientoId": "CAR-02",
+    "nombre": "Dormitorio 1",
+    "tipo": "dormitorio",
+    "piso": "Piso 2",
+    "custodio": "Custodio 01 – Área de dormitorios",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0011",
+    "establecimientoId": "CAR-02",
+    "nombre": "Dormitorio 2",
+    "tipo": "dormitorio",
+    "piso": "Piso 2",
+    "custodio": "Custodio 02 – Área de dormitorios",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0012",
+    "establecimientoId": "CAR-02",
+    "nombre": "Cocina",
+    "tipo": "cocina",
+    "piso": "Piso 1",
+    "custodio": "Custodio 03 – Área de cocina",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0013",
+    "establecimientoId": "CAR-02",
+    "nombre": "Comedor",
+    "tipo": "comedor",
+    "piso": "Piso 1",
+    "custodio": "Custodio 04 – Área de comedor",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0014",
+    "establecimientoId": "CAR-02",
+    "nombre": "Oficina de dirección",
+    "tipo": "oficina",
+    "piso": "Piso 1",
+    "custodio": "Custodio 05 – Dirección",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0015",
+    "establecimientoId": "CAR-02",
+    "nombre": "Tópico",
+    "tipo": "salud",
+    "piso": "Piso 1",
+    "custodio": "Custodio 06 – Área de salud",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0016",
+    "establecimientoId": "CAR-02",
+    "nombre": "Sala de estudio",
+    "tipo": "estudio",
+    "piso": "Piso 1",
+    "custodio": "Custodio 07 – Área educativa",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0017",
+    "establecimientoId": "CAR-03",
+    "nombre": "Dormitorio 1",
+    "tipo": "dormitorio",
+    "piso": "Piso 2",
+    "custodio": "Custodio 01 – Área de dormitorios",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0018",
+    "establecimientoId": "CAR-03",
+    "nombre": "Dormitorio 2",
+    "tipo": "dormitorio",
+    "piso": "Piso 2",
+    "custodio": "Custodio 02 – Área de dormitorios",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0019",
+    "establecimientoId": "CAR-03",
+    "nombre": "Cocina",
+    "tipo": "cocina",
+    "piso": "Piso 1",
+    "custodio": "Custodio 03 – Área de cocina",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0020",
+    "establecimientoId": "CAR-03",
+    "nombre": "Comedor",
+    "tipo": "comedor",
+    "piso": "Piso 1",
+    "custodio": "Custodio 04 – Área de comedor",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0021",
+    "establecimientoId": "CAR-03",
+    "nombre": "Oficina de dirección",
+    "tipo": "oficina",
+    "piso": "Piso 1",
+    "custodio": "Custodio 05 – Dirección",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0022",
+    "establecimientoId": "CAR-03",
+    "nombre": "Tópico",
+    "tipo": "salud",
+    "piso": "Piso 1",
+    "custodio": "Custodio 06 – Área de salud",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0023",
+    "establecimientoId": "CAR-03",
+    "nombre": "Sala de estudio",
+    "tipo": "estudio",
+    "piso": "Piso 1",
+    "custodio": "Custodio 07 – Área educativa",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0024",
+    "establecimientoId": "CAR-03",
+    "nombre": "Lavandería",
+    "tipo": "servicios",
+    "piso": "Piso 1",
+    "custodio": "Custodio 08 – Servicios generales",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0025",
+    "establecimientoId": "CAR-04",
+    "nombre": "Dormitorio 1",
+    "tipo": "dormitorio",
+    "piso": "Piso 2",
+    "custodio": "Custodio 01 – Área de dormitorios",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0026",
+    "establecimientoId": "CAR-04",
+    "nombre": "Dormitorio 2",
+    "tipo": "dormitorio",
+    "piso": "Piso 2",
+    "custodio": "Custodio 02 – Área de dormitorios",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0027",
+    "establecimientoId": "CAR-04",
+    "nombre": "Cocina",
+    "tipo": "cocina",
+    "piso": "Piso 1",
+    "custodio": "Custodio 03 – Área de cocina",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0028",
+    "establecimientoId": "CAR-04",
+    "nombre": "Comedor",
+    "tipo": "comedor",
+    "piso": "Piso 1",
+    "custodio": "Custodio 04 – Área de comedor",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0029",
+    "establecimientoId": "CAR-04",
+    "nombre": "Oficina de dirección",
+    "tipo": "oficina",
+    "piso": "Piso 1",
+    "custodio": "Custodio 05 – Dirección",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0030",
+    "establecimientoId": "CAR-04",
+    "nombre": "Tópico",
+    "tipo": "salud",
+    "piso": "Piso 1",
+    "custodio": "Custodio 06 – Área de salud",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0031",
+    "establecimientoId": "CAR-04",
+    "nombre": "Sala de estudio",
+    "tipo": "estudio",
+    "piso": "Piso 1",
+    "custodio": "Custodio 07 – Área educativa",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0032",
+    "establecimientoId": "CAR-05",
+    "nombre": "Dormitorio 1",
+    "tipo": "dormitorio",
+    "piso": "Piso 2",
+    "custodio": "Custodio 01 – Área de dormitorios",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0033",
+    "establecimientoId": "CAR-05",
+    "nombre": "Dormitorio 2",
+    "tipo": "dormitorio",
+    "piso": "Piso 2",
+    "custodio": "Custodio 02 – Área de dormitorios",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0034",
+    "establecimientoId": "CAR-05",
+    "nombre": "Cocina",
+    "tipo": "cocina",
+    "piso": "Piso 1",
+    "custodio": "Custodio 03 – Área de cocina",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0035",
+    "establecimientoId": "CAR-05",
+    "nombre": "Comedor",
+    "tipo": "comedor",
+    "piso": "Piso 1",
+    "custodio": "Custodio 04 – Área de comedor",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0036",
+    "establecimientoId": "CAR-05",
+    "nombre": "Oficina de dirección",
+    "tipo": "oficina",
+    "piso": "Piso 1",
+    "custodio": "Custodio 05 – Dirección",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0037",
+    "establecimientoId": "CAR-05",
+    "nombre": "Tópico",
+    "tipo": "salud",
+    "piso": "Piso 1",
+    "custodio": "Custodio 06 – Área de salud",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0038",
+    "establecimientoId": "CAR-05",
+    "nombre": "Sala de estudio",
+    "tipo": "estudio",
+    "piso": "Piso 1",
+    "custodio": "Custodio 07 – Área educativa",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0039",
+    "establecimientoId": "CAR-05",
+    "nombre": "Lavandería",
+    "tipo": "servicios",
+    "piso": "Piso 1",
+    "custodio": "Custodio 08 – Servicios generales",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0040",
+    "establecimientoId": "CAR-05",
+    "nombre": "Sala de recreación",
+    "tipo": "recreacion",
+    "piso": "Piso 1",
+    "custodio": "Custodio 09 – Área de recreación",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0041",
+    "establecimientoId": "CAR-06",
+    "nombre": "Dormitorio 1",
+    "tipo": "dormitorio",
+    "piso": "Piso 2",
+    "custodio": "Custodio 01 – Área de dormitorios",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0042",
+    "establecimientoId": "CAR-06",
+    "nombre": "Dormitorio 2",
+    "tipo": "dormitorio",
+    "piso": "Piso 2",
+    "custodio": "Custodio 02 – Área de dormitorios",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0043",
+    "establecimientoId": "CAR-06",
+    "nombre": "Cocina",
+    "tipo": "cocina",
+    "piso": "Piso 1",
+    "custodio": "Custodio 03 – Área de cocina",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0044",
+    "establecimientoId": "CAR-06",
+    "nombre": "Comedor",
+    "tipo": "comedor",
+    "piso": "Piso 1",
+    "custodio": "Custodio 04 – Área de comedor",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0045",
+    "establecimientoId": "CAR-06",
+    "nombre": "Oficina de dirección",
+    "tipo": "oficina",
+    "piso": "Piso 1",
+    "custodio": "Custodio 05 – Dirección",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0046",
+    "establecimientoId": "CAR-06",
+    "nombre": "Tópico",
+    "tipo": "salud",
+    "piso": "Piso 1",
+    "custodio": "Custodio 06 – Área de salud",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0047",
+    "establecimientoId": "CAR-06",
+    "nombre": "Sala de estudio",
+    "tipo": "estudio",
+    "piso": "Piso 1",
+    "custodio": "Custodio 07 – Área educativa",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0048",
+    "establecimientoId": "CAR-07",
+    "nombre": "Dormitorio 1",
+    "tipo": "dormitorio",
+    "piso": "Piso 2",
+    "custodio": "Custodio 01 – Área de dormitorios",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0049",
+    "establecimientoId": "CAR-07",
+    "nombre": "Dormitorio 2",
+    "tipo": "dormitorio",
+    "piso": "Piso 2",
+    "custodio": "Custodio 02 – Área de dormitorios",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0050",
+    "establecimientoId": "CAR-07",
+    "nombre": "Cocina",
+    "tipo": "cocina",
+    "piso": "Piso 1",
+    "custodio": "Custodio 03 – Área de cocina",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0051",
+    "establecimientoId": "CAR-07",
+    "nombre": "Comedor",
+    "tipo": "comedor",
+    "piso": "Piso 1",
+    "custodio": "Custodio 04 – Área de comedor",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0052",
+    "establecimientoId": "CAR-07",
+    "nombre": "Oficina de dirección",
+    "tipo": "oficina",
+    "piso": "Piso 1",
+    "custodio": "Custodio 05 – Dirección",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0053",
+    "establecimientoId": "CAR-07",
+    "nombre": "Tópico",
+    "tipo": "salud",
+    "piso": "Piso 1",
+    "custodio": "Custodio 06 – Área de salud",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0054",
+    "establecimientoId": "CAR-07",
+    "nombre": "Sala de estudio",
+    "tipo": "estudio",
+    "piso": "Piso 1",
+    "custodio": "Custodio 07 – Área educativa",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0055",
+    "establecimientoId": "CAR-07",
+    "nombre": "Lavandería",
+    "tipo": "servicios",
+    "piso": "Piso 1",
+    "custodio": "Custodio 08 – Servicios generales",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0056",
+    "establecimientoId": "CAR-08",
+    "nombre": "Dormitorio 1",
+    "tipo": "dormitorio",
+    "piso": "Piso 2",
+    "custodio": "Custodio 01 – Área de dormitorios",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0057",
+    "establecimientoId": "CAR-08",
+    "nombre": "Dormitorio 2",
+    "tipo": "dormitorio",
+    "piso": "Piso 2",
+    "custodio": "Custodio 02 – Área de dormitorios",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0058",
+    "establecimientoId": "CAR-08",
+    "nombre": "Cocina",
+    "tipo": "cocina",
+    "piso": "Piso 1",
+    "custodio": "Custodio 03 – Área de cocina",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0059",
+    "establecimientoId": "CAR-08",
+    "nombre": "Comedor",
+    "tipo": "comedor",
+    "piso": "Piso 1",
+    "custodio": "Custodio 04 – Área de comedor",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0060",
+    "establecimientoId": "CAR-08",
+    "nombre": "Oficina de dirección",
+    "tipo": "oficina",
+    "piso": "Piso 1",
+    "custodio": "Custodio 05 – Dirección",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0061",
+    "establecimientoId": "CAR-08",
+    "nombre": "Tópico",
+    "tipo": "salud",
+    "piso": "Piso 1",
+    "custodio": "Custodio 06 – Área de salud",
+    "estado": "activo"
+  },
+  {
+    "id": "AMB-0062",
+    "establecimientoId": "CAR-08",
+    "nombre": "Sala de estudio",
+    "tipo": "estudio",
+    "piso": "Piso 1",
+    "custodio": "Custodio 07 – Área educativa",
+    "estado": "activo"
+  }
+]

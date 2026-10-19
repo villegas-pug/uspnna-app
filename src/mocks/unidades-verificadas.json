@@ -1,0 +1,426 @@
+[
+  {
+    "id": "UNV-00001",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-01",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0001",
+    "fecha": "2026-03-02T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00002",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-01",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0002",
+    "fecha": "2026-03-03T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00003",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-01",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0003",
+    "fecha": "2026-03-05T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00004",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-01",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0004",
+    "fecha": "2026-03-06T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00005",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-01",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0005",
+    "fecha": "2026-03-08T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00006",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-01",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0006",
+    "fecha": "2026-03-09T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00007",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-01",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0007",
+    "fecha": "2026-03-11T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00008",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-01",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0008",
+    "fecha": "2026-03-12T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00009",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-01",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0009",
+    "fecha": "2026-03-14T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00010",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-02",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0010",
+    "fecha": "2026-03-15T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00011",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-02",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0011",
+    "fecha": "2026-03-17T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00012",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-02",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0012",
+    "fecha": "2026-03-18T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00013",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-02",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0013",
+    "fecha": "2026-03-20T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00014",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-02",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0014",
+    "fecha": "2026-03-22T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00015",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-02",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0015",
+    "fecha": "2026-03-23T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00016",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-02",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0016",
+    "fecha": "2026-03-25T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00017",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-03",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0017",
+    "fecha": "2026-03-26T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00018",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-03",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0018",
+    "fecha": "2026-03-28T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00019",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-03",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0019",
+    "fecha": "2026-03-29T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00020",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-01",
+    "tipo": "almacen",
+    "unidadId": "ALM-001",
+    "fecha": "2026-03-30T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00021",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-02",
+    "tipo": "almacen",
+    "unidadId": "ALM-003",
+    "fecha": "2026-03-30T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00022",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-03",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0020",
+    "fecha": "2026-03-31T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00023",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-02",
+    "tipo": "almacen",
+    "unidadId": "ALM-004",
+    "fecha": "2026-03-31T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00024",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-03",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0021",
+    "fecha": "2026-04-01T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00025",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-03",
+    "tipo": "almacen",
+    "unidadId": "ALM-005",
+    "fecha": "2026-04-02T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00026",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-03",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0022",
+    "fecha": "2026-04-03T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00027",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-03",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0023",
+    "fecha": "2026-04-04T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00028",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-03",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0024",
+    "fecha": "2026-04-06T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00029",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-01",
+    "tipo": "almacen",
+    "unidadId": "ALM-002",
+    "fecha": "2026-04-06T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00030",
+    "campaniaId": "CAM-2026-001",
+    "establecimientoId": "CAR-03",
+    "tipo": "almacen",
+    "unidadId": "ALM-006",
+    "fecha": "2026-04-07T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00031",
+    "campaniaId": "CAM-2026-002",
+    "establecimientoId": "CAR-04",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0025",
+    "fecha": "2026-08-03T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00032",
+    "campaniaId": "CAM-2026-002",
+    "establecimientoId": "CAR-04",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0026",
+    "fecha": "2026-08-05T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00033",
+    "campaniaId": "CAM-2026-002",
+    "establecimientoId": "CAR-04",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0027",
+    "fecha": "2026-08-07T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00034",
+    "campaniaId": "CAM-2026-002",
+    "establecimientoId": "CAR-04",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0028",
+    "fecha": "2026-08-09T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00035",
+    "campaniaId": "CAM-2026-002",
+    "establecimientoId": "CAR-04",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0029",
+    "fecha": "2026-08-12T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00036",
+    "campaniaId": "CAM-2026-002",
+    "establecimientoId": "CAR-04",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0030",
+    "fecha": "2026-08-14T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00037",
+    "campaniaId": "CAM-2026-002",
+    "establecimientoId": "CAR-04",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0031",
+    "fecha": "2026-08-16T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00038",
+    "campaniaId": "CAM-2026-002",
+    "establecimientoId": "CAR-05",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0032",
+    "fecha": "2026-08-19T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00039",
+    "campaniaId": "CAM-2026-002",
+    "establecimientoId": "CAR-05",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0033",
+    "fecha": "2026-08-21T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00040",
+    "campaniaId": "CAM-2026-002",
+    "establecimientoId": "CAR-05",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0034",
+    "fecha": "2026-08-23T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00041",
+    "campaniaId": "CAM-2026-002",
+    "establecimientoId": "CAR-05",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0035",
+    "fecha": "2026-08-26T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00042",
+    "campaniaId": "CAM-2026-002",
+    "establecimientoId": "CAR-05",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0036",
+    "fecha": "2026-08-28T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00043",
+    "campaniaId": "CAM-2026-002",
+    "establecimientoId": "CAR-05",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0037",
+    "fecha": "2026-08-30T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00044",
+    "campaniaId": "CAM-2026-002",
+    "establecimientoId": "CAR-05",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0038",
+    "fecha": "2026-09-02T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00045",
+    "campaniaId": "CAM-2026-002",
+    "establecimientoId": "CAR-04",
+    "tipo": "almacen",
+    "unidadId": "ALM-008",
+    "fecha": "2026-09-02T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00046",
+    "campaniaId": "CAM-2026-002",
+    "establecimientoId": "CAR-05",
+    "tipo": "almacen",
+    "unidadId": "ALM-009",
+    "fecha": "2026-09-03T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00047",
+    "campaniaId": "CAM-2026-002",
+    "establecimientoId": "CAR-05",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0039",
+    "fecha": "2026-09-04T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00048",
+    "campaniaId": "CAM-2026-002",
+    "establecimientoId": "CAR-04",
+    "tipo": "almacen",
+    "unidadId": "ALM-007",
+    "fecha": "2026-09-06T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00049",
+    "campaniaId": "CAM-2026-003",
+    "establecimientoId": "CAR-06",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0041",
+    "fecha": "2026-10-01T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00050",
+    "campaniaId": "CAM-2026-003",
+    "establecimientoId": "CAR-06",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0042",
+    "fecha": "2026-10-03T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00051",
+    "campaniaId": "CAM-2026-003",
+    "establecimientoId": "CAR-06",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0043",
+    "fecha": "2026-10-06T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00052",
+    "campaniaId": "CAM-2026-003",
+    "establecimientoId": "CAR-06",
+    "tipo": "ambiente",
+    "unidadId": "AMB-0044",
+    "fecha": "2026-10-08T22:30:00.000Z"
+  },
+  {
+    "id": "UNV-00053",
+    "campaniaId": "CAM-2026-003",
+    "establecimientoId": "CAR-06",
+    "tipo": "almacen",
+    "unidadId": "ALM-011",
+    "fecha": "2026-10-15T22:30:00.000Z"
+  }
+]

@@ -1,0 +1,6092 @@
+[
+  {
+    "id": "HIS-000001",
+    "bienId": "BP-000251",
+    "fecha": "2026-01-12T13:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0046",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000002",
+    "bienId": "BP-000264",
+    "fecha": "2026-01-12T14:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0049",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000003",
+    "bienId": "BP-000321",
+    "fecha": "2026-01-12T14:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0059",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000004",
+    "bienId": "BP-000291",
+    "fecha": "2026-01-12T14:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0053",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000005",
+    "bienId": "BP-000219",
+    "fecha": "2026-01-12T15:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0041",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000006",
+    "bienId": "BP-000178",
+    "fecha": "2026-01-12T15:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0033",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000007",
+    "bienId": "BP-000001",
+    "fecha": "2026-01-12T17:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0001",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000008",
+    "bienId": "BP-000196",
+    "fecha": "2026-01-12T17:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0036",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000009",
+    "bienId": "BP-000280",
+    "fecha": "2026-01-12T18:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0052",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000010",
+    "bienId": "BP-000158",
+    "fecha": "2026-01-12T18:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0029",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000011",
+    "bienId": "BP-000136",
+    "fecha": "2026-01-12T19:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0025",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000012",
+    "bienId": "BP-000164",
+    "fecha": "2026-01-12T20:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0030",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000013",
+    "bienId": "BP-000288",
+    "fecha": "2026-01-12T20:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0053",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000014",
+    "bienId": "BP-000170",
+    "fecha": "2026-01-12T20:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0031",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000015",
+    "bienId": "BP-000129",
+    "fecha": "2026-01-12T21:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Lavandería.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0024",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000016",
+    "bienId": "BP-000306",
+    "fecha": "2026-01-12T21:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0056",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000017",
+    "bienId": "BP-000282",
+    "fecha": "2026-01-12T22:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0052",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000018",
+    "bienId": "BP-000297",
+    "fecha": "2026-01-13T13:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0054",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000019",
+    "bienId": "BP-000138",
+    "fecha": "2026-01-13T15:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0026",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000020",
+    "bienId": "BP-000091",
+    "fecha": "2026-01-13T16:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0017",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000021",
+    "bienId": "BP-000212",
+    "fecha": "2026-01-13T16:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Lavandería.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0039",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000022",
+    "bienId": "BP-000232",
+    "fecha": "2026-01-13T19:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0043",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000023",
+    "bienId": "BP-000080",
+    "fecha": "2026-01-13T20:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0015",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000024",
+    "bienId": "BP-000131",
+    "fecha": "2026-01-13T21:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Lavandería.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0024",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000025",
+    "bienId": "BP-000337",
+    "fecha": "2026-01-13T21:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0062",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000026",
+    "bienId": "BP-000320",
+    "fecha": "2026-01-13T22:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0059",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000027",
+    "bienId": "BP-000223",
+    "fecha": "2026-01-14T13:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0041",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000028",
+    "bienId": "BP-000316",
+    "fecha": "2026-01-14T14:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0058",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000029",
+    "bienId": "BP-000094",
+    "fecha": "2026-01-14T14:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0021",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000030",
+    "bienId": "BP-000120",
+    "fecha": "2026-01-14T15:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0022",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000031",
+    "bienId": "BP-000013",
+    "fecha": "2026-01-14T15:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0003",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000032",
+    "bienId": "BP-000256",
+    "fecha": "2026-01-14T17:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0047",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000033",
+    "bienId": "BP-000235",
+    "fecha": "2026-01-14T19:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0044",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000034",
+    "bienId": "BP-000330",
+    "fecha": "2026-01-14T19:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0060",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000035",
+    "bienId": "BP-000014",
+    "fecha": "2026-01-14T20:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0003",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000036",
+    "bienId": "BP-000243",
+    "fecha": "2026-01-14T20:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0045",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000037",
+    "bienId": "BP-000259",
+    "fecha": "2026-01-15T13:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0048",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000038",
+    "bienId": "BP-000084",
+    "fecha": "2026-01-15T13:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0016",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000039",
+    "bienId": "BP-000324",
+    "fecha": "2026-01-15T13:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0060",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000040",
+    "bienId": "BP-000048",
+    "fecha": "2026-01-15T15:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0010",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000041",
+    "bienId": "BP-000228",
+    "fecha": "2026-01-15T15:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0042",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000042",
+    "bienId": "BP-000332",
+    "fecha": "2026-01-15T17:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0061",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000043",
+    "bienId": "BP-000043",
+    "fecha": "2026-01-15T17:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Lavandería.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0008",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000044",
+    "bienId": "BP-000229",
+    "fecha": "2026-01-15T17:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0043",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000045",
+    "bienId": "BP-000130",
+    "fecha": "2026-01-15T18:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Lavandería.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0024",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000046",
+    "bienId": "BP-000071",
+    "fecha": "2026-01-15T18:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0014",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000047",
+    "bienId": "BP-000062",
+    "fecha": "2026-01-15T19:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0013",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000048",
+    "bienId": "BP-000258",
+    "fecha": "2026-01-15T19:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0046",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000049",
+    "bienId": "BP-000112",
+    "fecha": "2026-01-15T20:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0020",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000050",
+    "bienId": "BP-000265",
+    "fecha": "2026-01-15T21:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0049",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000051",
+    "bienId": "BP-000335",
+    "fecha": "2026-01-15T21:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0061",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000052",
+    "bienId": "BP-000142",
+    "fecha": "2026-01-15T21:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0026",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000053",
+    "bienId": "BP-000005",
+    "fecha": "2026-01-15T22:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0001",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000054",
+    "bienId": "BP-000326",
+    "fecha": "2026-01-16T13:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0060",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000055",
+    "bienId": "BP-000026",
+    "fecha": "2026-01-16T13:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0005",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000056",
+    "bienId": "BP-000198",
+    "fecha": "2026-01-16T14:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0036",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000057",
+    "bienId": "BP-000140",
+    "fecha": "2026-01-16T15:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0026",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000058",
+    "bienId": "BP-000283",
+    "fecha": "2026-01-16T15:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0052",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000059",
+    "bienId": "BP-000010",
+    "fecha": "2026-01-16T18:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0002",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000060",
+    "bienId": "BP-000070",
+    "fecha": "2026-01-16T18:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0014",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000061",
+    "bienId": "BP-000019",
+    "fecha": "2026-01-16T18:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0004",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000062",
+    "bienId": "BP-000127",
+    "fecha": "2026-01-16T20:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0023",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000063",
+    "bienId": "BP-000201",
+    "fecha": "2026-01-17T14:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0036",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000064",
+    "bienId": "BP-000115",
+    "fecha": "2026-01-17T14:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0021",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000065",
+    "bienId": "BP-000099",
+    "fecha": "2026-01-17T16:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0018",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000066",
+    "bienId": "BP-000030",
+    "fecha": "2026-01-17T17:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0005",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000067",
+    "bienId": "BP-000305",
+    "fecha": "2026-01-17T17:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0056",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000068",
+    "bienId": "BP-000242",
+    "fecha": "2026-01-17T19:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0045",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000069",
+    "bienId": "BP-000237",
+    "fecha": "2026-01-17T19:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0044",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000070",
+    "bienId": "BP-000156",
+    "fecha": "2026-01-17T19:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0029",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000071",
+    "bienId": "BP-000245",
+    "fecha": "2026-01-17T20:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0045",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000072",
+    "bienId": "BP-000249",
+    "fecha": "2026-01-17T21:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0046",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000073",
+    "bienId": "BP-000090",
+    "fecha": "2026-01-17T21:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0017",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000074",
+    "bienId": "BP-000289",
+    "fecha": "2026-01-17T22:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0053",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000075",
+    "bienId": "BP-000230",
+    "fecha": "2026-01-18T13:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0043",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000076",
+    "bienId": "BP-000108",
+    "fecha": "2026-01-18T13:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0020",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000077",
+    "bienId": "BP-000179",
+    "fecha": "2026-01-18T15:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0033",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000078",
+    "bienId": "BP-000118",
+    "fecha": "2026-01-18T17:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0021",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000079",
+    "bienId": "BP-000125",
+    "fecha": "2026-01-18T17:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0023",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000080",
+    "bienId": "BP-000073",
+    "fecha": "2026-01-18T18:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0014",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000081",
+    "bienId": "BP-000189",
+    "fecha": "2026-01-18T19:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0035",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000082",
+    "bienId": "BP-000165",
+    "fecha": "2026-01-18T22:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0031",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000083",
+    "bienId": "BP-000076",
+    "fecha": "2026-01-19T14:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0014",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000084",
+    "bienId": "BP-000195",
+    "fecha": "2026-01-19T15:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0036",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000085",
+    "bienId": "BP-000187",
+    "fecha": "2026-01-19T16:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0035",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000086",
+    "bienId": "BP-000234",
+    "fecha": "2026-01-19T16:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0044",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000087",
+    "bienId": "BP-000052",
+    "fecha": "2026-01-19T20:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0011",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000088",
+    "bienId": "BP-000323",
+    "fecha": "2026-01-19T20:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0060",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000089",
+    "bienId": "BP-000244",
+    "fecha": "2026-01-19T21:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0045",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000090",
+    "bienId": "BP-000250",
+    "fecha": "2026-01-19T22:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0046",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000091",
+    "bienId": "BP-000097",
+    "fecha": "2026-01-19T22:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0018",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000092",
+    "bienId": "BP-000039",
+    "fecha": "2026-01-20T16:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0007",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000093",
+    "bienId": "BP-000268",
+    "fecha": "2026-01-20T17:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0050",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000094",
+    "bienId": "BP-000095",
+    "fecha": "2026-01-20T18:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0018",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000095",
+    "bienId": "BP-000054",
+    "fecha": "2026-01-20T19:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0011",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000096",
+    "bienId": "BP-000284",
+    "fecha": "2026-01-20T19:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0051",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000097",
+    "bienId": "BP-000302",
+    "fecha": "2026-01-20T20:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0056",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000098",
+    "bienId": "BP-000103",
+    "fecha": "2026-01-20T20:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0019",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000099",
+    "bienId": "BP-000064",
+    "fecha": "2026-01-20T21:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0013",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000100",
+    "bienId": "BP-000022",
+    "fecha": "2026-01-20T22:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0005",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000101",
+    "bienId": "BP-000309",
+    "fecha": "2026-01-21T14:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0057",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000102",
+    "bienId": "BP-000322",
+    "fecha": "2026-01-21T15:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0059",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000103",
+    "bienId": "BP-000110",
+    "fecha": "2026-01-21T15:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0020",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000104",
+    "bienId": "BP-000192",
+    "fecha": "2026-01-21T16:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0035",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000105",
+    "bienId": "BP-000205",
+    "fecha": "2026-01-21T16:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0037",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000106",
+    "bienId": "BP-000341",
+    "fecha": "2026-01-21T16:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0062",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000107",
+    "bienId": "BP-000226",
+    "fecha": "2026-01-21T17:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0042",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000108",
+    "bienId": "BP-000254",
+    "fecha": "2026-01-21T18:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0047",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000109",
+    "bienId": "BP-000144",
+    "fecha": "2026-01-21T18:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0027",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000110",
+    "bienId": "BP-000037",
+    "fecha": "2026-01-21T19:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0004",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000111",
+    "bienId": "BP-000149",
+    "fecha": "2026-01-21T20:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0028",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000112",
+    "bienId": "BP-000215",
+    "fecha": "2026-01-21T20:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de recreación.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0040",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000113",
+    "bienId": "BP-000216",
+    "fecha": "2026-01-21T21:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de recreación.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0040",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000114",
+    "bienId": "BP-000038",
+    "fecha": "2026-01-21T22:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0007",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000115",
+    "bienId": "BP-000152",
+    "fecha": "2026-01-21T22:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0028",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000116",
+    "bienId": "BP-000218",
+    "fecha": "2026-01-22T13:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0041",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000117",
+    "bienId": "BP-000116",
+    "fecha": "2026-01-22T14:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0021",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000118",
+    "bienId": "BP-000167",
+    "fecha": "2026-01-22T15:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0031",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000119",
+    "bienId": "BP-000285",
+    "fecha": "2026-01-22T17:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0052",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000120",
+    "bienId": "BP-000319",
+    "fecha": "2026-01-22T17:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0059",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000121",
+    "bienId": "BP-000077",
+    "fecha": "2026-01-22T17:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0011",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000122",
+    "bienId": "BP-000266",
+    "fecha": "2026-01-22T19:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0049",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000123",
+    "bienId": "BP-000008",
+    "fecha": "2026-01-22T21:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0002",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000124",
+    "bienId": "BP-000207",
+    "fecha": "2026-01-22T22:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0038",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000125",
+    "bienId": "BP-000191",
+    "fecha": "2026-01-23T13:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0035",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000126",
+    "bienId": "BP-000163",
+    "fecha": "2026-01-23T16:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0030",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000127",
+    "bienId": "BP-000032",
+    "fecha": "2026-01-23T17:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0006",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000128",
+    "bienId": "BP-000029",
+    "fecha": "2026-01-23T18:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0005",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000129",
+    "bienId": "BP-000169",
+    "fecha": "2026-01-23T18:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0031",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000130",
+    "bienId": "BP-000206",
+    "fecha": "2026-01-23T19:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0038",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000131",
+    "bienId": "BP-000182",
+    "fecha": "2026-01-23T20:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0034",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000132",
+    "bienId": "BP-000203",
+    "fecha": "2026-01-23T20:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0037",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000133",
+    "bienId": "BP-000185",
+    "fecha": "2026-01-23T21:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0034",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000134",
+    "bienId": "BP-000204",
+    "fecha": "2026-01-23T21:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0037",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000135",
+    "bienId": "BP-000338",
+    "fecha": "2026-01-23T22:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0062",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000136",
+    "bienId": "BP-000295",
+    "fecha": "2026-01-24T13:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0054",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000137",
+    "bienId": "BP-000033",
+    "fecha": "2026-01-24T14:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0006",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000138",
+    "bienId": "BP-000016",
+    "fecha": "2026-01-24T15:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0004",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000139",
+    "bienId": "BP-000241",
+    "fecha": "2026-01-24T15:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0044",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000140",
+    "bienId": "BP-000155",
+    "fecha": "2026-01-24T17:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0029",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000141",
+    "bienId": "BP-000104",
+    "fecha": "2026-01-24T17:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0019",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000142",
+    "bienId": "BP-000006",
+    "fecha": "2026-01-24T18:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0002",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000143",
+    "bienId": "BP-000044",
+    "fecha": "2026-01-24T20:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de recreación.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0009",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000144",
+    "bienId": "BP-000200",
+    "fecha": "2026-01-24T20:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0036",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000145",
+    "bienId": "BP-000236",
+    "fecha": "2026-01-24T20:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0044",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000146",
+    "bienId": "BP-000011",
+    "fecha": "2026-01-24T21:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0002",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000147",
+    "bienId": "BP-000123",
+    "fecha": "2026-01-24T22:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0022",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000148",
+    "bienId": "BP-000304",
+    "fecha": "2026-01-25T13:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0056",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000149",
+    "bienId": "BP-000172",
+    "fecha": "2026-01-25T13:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0032",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000150",
+    "bienId": "BP-000279",
+    "fecha": "2026-01-25T14:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0052",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000151",
+    "bienId": "BP-000286",
+    "fecha": "2026-01-25T14:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0052",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000152",
+    "bienId": "BP-000117",
+    "fecha": "2026-01-25T15:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0021",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000153",
+    "bienId": "BP-000021",
+    "fecha": "2026-01-25T15:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0004",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000154",
+    "bienId": "BP-000107",
+    "fecha": "2026-01-25T16:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0020",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000155",
+    "bienId": "BP-000036",
+    "fecha": "2026-01-25T16:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0007",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000156",
+    "bienId": "BP-000113",
+    "fecha": "2026-01-25T17:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0021",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000157",
+    "bienId": "BP-000147",
+    "fecha": "2026-01-25T19:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0027",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000158",
+    "bienId": "BP-000085",
+    "fecha": "2026-01-25T20:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0016",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000159",
+    "bienId": "BP-000315",
+    "fecha": "2026-01-25T21:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0058",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000160",
+    "bienId": "BP-000239",
+    "fecha": "2026-01-25T21:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0044",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000161",
+    "bienId": "BP-000222",
+    "fecha": "2026-01-25T22:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0041",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000162",
+    "bienId": "BP-000023",
+    "fecha": "2026-01-25T22:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0005",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000163",
+    "bienId": "BP-000275",
+    "fecha": "2026-01-26T14:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0051",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000164",
+    "bienId": "BP-000325",
+    "fecha": "2026-01-26T14:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0060",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000165",
+    "bienId": "BP-000327",
+    "fecha": "2026-01-26T16:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0060",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000166",
+    "bienId": "BP-000134",
+    "fecha": "2026-01-26T17:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0025",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000167",
+    "bienId": "BP-000209",
+    "fecha": "2026-01-26T18:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0038",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000168",
+    "bienId": "BP-000137",
+    "fecha": "2026-01-26T18:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0026",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000169",
+    "bienId": "BP-000208",
+    "fecha": "2026-01-26T18:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0038",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000170",
+    "bienId": "BP-000301",
+    "fecha": "2026-01-26T18:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Lavandería.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0055",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000171",
+    "bienId": "BP-000173",
+    "fecha": "2026-01-26T20:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0032",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000172",
+    "bienId": "BP-000177",
+    "fecha": "2026-01-26T20:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0032",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000173",
+    "bienId": "BP-000066",
+    "fecha": "2026-01-26T21:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0013",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000174",
+    "bienId": "BP-000262",
+    "fecha": "2026-01-26T22:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0048",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000175",
+    "bienId": "BP-000040",
+    "fecha": "2026-01-27T13:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0007",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000176",
+    "bienId": "BP-000042",
+    "fecha": "2026-01-27T15:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0002",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000177",
+    "bienId": "BP-000148",
+    "fecha": "2026-01-27T16:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0028",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000178",
+    "bienId": "BP-000157",
+    "fecha": "2026-01-27T17:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0029",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000179",
+    "bienId": "BP-000154",
+    "fecha": "2026-01-27T17:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0028",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000180",
+    "bienId": "BP-000146",
+    "fecha": "2026-01-27T19:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0027",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000181",
+    "bienId": "BP-000027",
+    "fecha": "2026-01-27T19:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0005",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000182",
+    "bienId": "BP-000211",
+    "fecha": "2026-01-27T20:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0038",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000183",
+    "bienId": "BP-000078",
+    "fecha": "2026-01-27T20:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0014",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000184",
+    "bienId": "BP-000336",
+    "fecha": "2026-01-27T21:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0062",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000185",
+    "bienId": "BP-000317",
+    "fecha": "2026-01-27T21:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0059",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000186",
+    "bienId": "BP-000101",
+    "fecha": "2026-01-28T13:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0019",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000187",
+    "bienId": "BP-000018",
+    "fecha": "2026-01-28T14:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0004",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000188",
+    "bienId": "BP-000053",
+    "fecha": "2026-01-28T16:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0011",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000189",
+    "bienId": "BP-000331",
+    "fecha": "2026-01-28T16:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0060",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000190",
+    "bienId": "BP-000231",
+    "fecha": "2026-01-28T17:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0043",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000191",
+    "bienId": "BP-000079",
+    "fecha": "2026-01-28T17:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0015",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000192",
+    "bienId": "BP-000328",
+    "fecha": "2026-01-28T20:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0060",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000193",
+    "bienId": "BP-000057",
+    "fecha": "2026-01-28T22:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0012",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000194",
+    "bienId": "BP-000287",
+    "fecha": "2026-01-29T13:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0052",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000195",
+    "bienId": "BP-000224",
+    "fecha": "2026-01-29T15:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0042",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000196",
+    "bienId": "BP-000273",
+    "fecha": "2026-01-29T16:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0051",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000197",
+    "bienId": "BP-000139",
+    "fecha": "2026-01-29T16:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0026",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000198",
+    "bienId": "BP-000276",
+    "fecha": "2026-01-29T17:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0051",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000199",
+    "bienId": "BP-000220",
+    "fecha": "2026-01-29T17:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0041",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000200",
+    "bienId": "BP-000248",
+    "fecha": "2026-01-29T17:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0045",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000201",
+    "bienId": "BP-000329",
+    "fecha": "2026-01-29T19:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0060",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000202",
+    "bienId": "BP-000272",
+    "fecha": "2026-01-29T19:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0050",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000203",
+    "bienId": "BP-000067",
+    "fecha": "2026-01-29T21:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0016",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000204",
+    "bienId": "BP-000253",
+    "fecha": "2026-01-29T21:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0047",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000205",
+    "bienId": "BP-000267",
+    "fecha": "2026-01-30T14:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0049",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000206",
+    "bienId": "BP-000153",
+    "fecha": "2026-01-30T14:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0028",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000207",
+    "bienId": "BP-000257",
+    "fecha": "2026-01-30T17:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0047",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000208",
+    "bienId": "BP-000060",
+    "fecha": "2026-01-30T18:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0012",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000209",
+    "bienId": "BP-000124",
+    "fecha": "2026-01-30T18:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0023",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000210",
+    "bienId": "BP-000096",
+    "fecha": "2026-01-30T18:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0018",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000211",
+    "bienId": "BP-000193",
+    "fecha": "2026-01-30T20:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0035",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000212",
+    "bienId": "BP-000087",
+    "fecha": "2026-01-30T22:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0016",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000213",
+    "bienId": "BP-000277",
+    "fecha": "2026-01-30T22:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0051",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000214",
+    "bienId": "BP-000247",
+    "fecha": "2026-01-31T13:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0045",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000215",
+    "bienId": "BP-000056",
+    "fecha": "2026-01-31T13:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0011",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000216",
+    "bienId": "BP-000065",
+    "fecha": "2026-01-31T13:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0013",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000217",
+    "bienId": "BP-000271",
+    "fecha": "2026-01-31T14:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0050",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000218",
+    "bienId": "BP-000190",
+    "fecha": "2026-01-31T14:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0035",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000219",
+    "bienId": "BP-000105",
+    "fecha": "2026-01-31T14:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0023",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000220",
+    "bienId": "BP-000202",
+    "fecha": "2026-01-31T16:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0037",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000221",
+    "bienId": "BP-000106",
+    "fecha": "2026-01-31T17:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0020",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000222",
+    "bienId": "BP-000180",
+    "fecha": "2026-01-31T18:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0033",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000223",
+    "bienId": "BP-000061",
+    "fecha": "2026-01-31T19:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0012",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000224",
+    "bienId": "BP-000063",
+    "fecha": "2026-01-31T19:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0013",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000225",
+    "bienId": "BP-000260",
+    "fecha": "2026-01-31T21:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0048",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000226",
+    "bienId": "BP-000233",
+    "fecha": "2026-01-31T21:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0043",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000227",
+    "bienId": "BP-000311",
+    "fecha": "2026-01-31T21:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0057",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000228",
+    "bienId": "BP-000175",
+    "fecha": "2026-01-31T22:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0032",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000229",
+    "bienId": "BP-000174",
+    "fecha": "2026-01-31T22:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0032",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000230",
+    "bienId": "BP-000024",
+    "fecha": "2026-01-31T22:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0005",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000231",
+    "bienId": "BP-000109",
+    "fecha": "2026-02-01T14:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0020",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000232",
+    "bienId": "BP-000278",
+    "fecha": "2026-02-01T15:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0051",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000233",
+    "bienId": "BP-000122",
+    "fecha": "2026-02-01T16:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0022",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000234",
+    "bienId": "BP-000308",
+    "fecha": "2026-02-01T19:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0057",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000235",
+    "bienId": "BP-000183",
+    "fecha": "2026-02-01T19:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0034",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000236",
+    "bienId": "BP-000318",
+    "fecha": "2026-02-01T20:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0059",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000237",
+    "bienId": "BP-000035",
+    "fecha": "2026-02-01T21:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0007",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000238",
+    "bienId": "BP-000055",
+    "fecha": "2026-02-01T21:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0011",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000239",
+    "bienId": "BP-000135",
+    "fecha": "2026-02-01T21:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0025",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000240",
+    "bienId": "BP-000047",
+    "fecha": "2026-02-01T22:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0010",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000241",
+    "bienId": "BP-000171",
+    "fecha": "2026-02-01T22:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0031",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000242",
+    "bienId": "BP-000009",
+    "fecha": "2026-02-02T13:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0002",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000243",
+    "bienId": "BP-000028",
+    "fecha": "2026-02-02T14:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0005",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000244",
+    "bienId": "BP-000339",
+    "fecha": "2026-02-02T16:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0062",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000245",
+    "bienId": "BP-000217",
+    "fecha": "2026-02-02T17:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de recreación.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0040",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000246",
+    "bienId": "BP-000141",
+    "fecha": "2026-02-02T17:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0026",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000247",
+    "bienId": "BP-000093",
+    "fecha": "2026-02-02T19:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0017",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000248",
+    "bienId": "BP-000088",
+    "fecha": "2026-02-02T21:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0016",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000249",
+    "bienId": "BP-000034",
+    "fecha": "2026-02-02T21:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0006",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000250",
+    "bienId": "BP-000092",
+    "fecha": "2026-02-03T13:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0017",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000251",
+    "bienId": "BP-000310",
+    "fecha": "2026-02-03T14:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0062",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000252",
+    "bienId": "BP-000270",
+    "fecha": "2026-02-03T14:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0050",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000253",
+    "bienId": "BP-000015",
+    "fecha": "2026-02-03T17:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0003",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000254",
+    "bienId": "BP-000334",
+    "fecha": "2026-02-03T17:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0061",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000255",
+    "bienId": "BP-000246",
+    "fecha": "2026-02-03T18:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0045",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000256",
+    "bienId": "BP-000225",
+    "fecha": "2026-02-03T19:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0042",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000257",
+    "bienId": "BP-000294",
+    "fecha": "2026-02-03T19:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0054",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000258",
+    "bienId": "BP-000300",
+    "fecha": "2026-02-03T20:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Lavandería.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0055",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000259",
+    "bienId": "BP-000261",
+    "fecha": "2026-02-03T21:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0048",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000260",
+    "bienId": "BP-000150",
+    "fecha": "2026-02-03T22:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0028",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000261",
+    "bienId": "BP-000296",
+    "fecha": "2026-02-03T22:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0054",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000262",
+    "bienId": "BP-000238",
+    "fecha": "2026-02-03T22:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0044",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000263",
+    "bienId": "BP-000002",
+    "fecha": "2026-02-03T22:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0001",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000264",
+    "bienId": "BP-000303",
+    "fecha": "2026-02-04T13:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0056",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000265",
+    "bienId": "BP-000269",
+    "fecha": "2026-02-04T13:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0050",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000266",
+    "bienId": "BP-000188",
+    "fecha": "2026-02-04T15:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0035",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000267",
+    "bienId": "BP-000314",
+    "fecha": "2026-02-04T17:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0058",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000268",
+    "bienId": "BP-000333",
+    "fecha": "2026-02-04T17:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0061",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000269",
+    "bienId": "BP-000255",
+    "fecha": "2026-02-04T18:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0047",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000270",
+    "bienId": "BP-000274",
+    "fecha": "2026-02-04T18:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0051",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000271",
+    "bienId": "BP-000058",
+    "fecha": "2026-02-04T19:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0012",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000272",
+    "bienId": "BP-000003",
+    "fecha": "2026-02-04T19:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0001",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000273",
+    "bienId": "BP-000059",
+    "fecha": "2026-02-04T21:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0012",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000274",
+    "bienId": "BP-000075",
+    "fecha": "2026-02-05T14:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0014",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000275",
+    "bienId": "BP-000313",
+    "fecha": "2026-02-05T16:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0056",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000276",
+    "bienId": "BP-000050",
+    "fecha": "2026-02-05T18:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0010",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000277",
+    "bienId": "BP-000151",
+    "fecha": "2026-02-05T18:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0028",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000278",
+    "bienId": "BP-000293",
+    "fecha": "2026-02-05T18:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0054",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000279",
+    "bienId": "BP-000041",
+    "fecha": "2026-02-05T19:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Lavandería.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0008",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000280",
+    "bienId": "BP-000083",
+    "fecha": "2026-02-05T19:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0016",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000281",
+    "bienId": "BP-000240",
+    "fecha": "2026-02-05T20:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0045",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000282",
+    "bienId": "BP-000098",
+    "fecha": "2026-02-05T22:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0018",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000283",
+    "bienId": "BP-000126",
+    "fecha": "2026-02-05T22:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0023",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000284",
+    "bienId": "BP-000025",
+    "fecha": "2026-02-06T13:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0005",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000285",
+    "bienId": "BP-000086",
+    "fecha": "2026-02-06T13:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0016",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000286",
+    "bienId": "BP-000133",
+    "fecha": "2026-02-06T14:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0025",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000287",
+    "bienId": "BP-000031",
+    "fecha": "2026-02-06T14:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0006",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000288",
+    "bienId": "BP-000017",
+    "fecha": "2026-02-06T15:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0004",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000289",
+    "bienId": "BP-000298",
+    "fecha": "2026-02-06T15:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0054",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000290",
+    "bienId": "BP-000128",
+    "fecha": "2026-02-06T16:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0023",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000291",
+    "bienId": "BP-000004",
+    "fecha": "2026-02-06T16:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0001",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000292",
+    "bienId": "BP-000166",
+    "fecha": "2026-02-06T18:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0031",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000293",
+    "bienId": "BP-000312",
+    "fecha": "2026-02-06T21:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0058",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000294",
+    "bienId": "BP-000299",
+    "fecha": "2026-02-06T21:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Lavandería.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0055",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000295",
+    "bienId": "BP-000307",
+    "fecha": "2026-02-06T21:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0056",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000296",
+    "bienId": "BP-000168",
+    "fecha": "2026-02-07T13:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0031",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000297",
+    "bienId": "BP-000227",
+    "fecha": "2026-02-07T14:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0042",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000298",
+    "bienId": "BP-000069",
+    "fecha": "2026-02-07T14:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0014",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000299",
+    "bienId": "BP-000020",
+    "fecha": "2026-02-07T14:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0004",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000300",
+    "bienId": "BP-000186",
+    "fecha": "2026-02-07T14:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0034",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000301",
+    "bienId": "BP-000184",
+    "fecha": "2026-02-07T18:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0034",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000302",
+    "bienId": "BP-000051",
+    "fecha": "2026-02-07T18:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0010",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000303",
+    "bienId": "BP-000252",
+    "fecha": "2026-02-07T19:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0046",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000304",
+    "bienId": "BP-000143",
+    "fecha": "2026-02-07T20:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0027",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000305",
+    "bienId": "BP-000181",
+    "fecha": "2026-02-07T21:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0033",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000306",
+    "bienId": "BP-000089",
+    "fecha": "2026-02-07T22:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0017",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000307",
+    "bienId": "BP-000102",
+    "fecha": "2026-02-08T14:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0019",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000308",
+    "bienId": "BP-000161",
+    "fecha": "2026-02-08T14:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0030",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000309",
+    "bienId": "BP-000012",
+    "fecha": "2026-02-08T14:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0003",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000310",
+    "bienId": "BP-000160",
+    "fecha": "2026-02-08T15:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0029",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000311",
+    "bienId": "BP-000281",
+    "fecha": "2026-02-08T15:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0052",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000312",
+    "bienId": "BP-000082",
+    "fecha": "2026-02-08T17:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0015",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000313",
+    "bienId": "BP-000162",
+    "fecha": "2026-02-08T18:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0030",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000314",
+    "bienId": "BP-000068",
+    "fecha": "2026-02-08T18:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0013",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000315",
+    "bienId": "BP-000100",
+    "fecha": "2026-02-08T19:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0019",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000316",
+    "bienId": "BP-000081",
+    "fecha": "2026-02-08T20:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0015",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000317",
+    "bienId": "BP-000145",
+    "fecha": "2026-02-08T20:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Cocina.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0027",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000318",
+    "bienId": "BP-000214",
+    "fecha": "2026-02-08T20:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Lavandería.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0039",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000319",
+    "bienId": "BP-000176",
+    "fecha": "2026-02-08T21:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0032",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000320",
+    "bienId": "BP-000046",
+    "fecha": "2026-02-09T19:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de recreación.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0009",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000321",
+    "bienId": "BP-000221",
+    "fecha": "2026-02-09T20:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0041",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000322",
+    "bienId": "BP-000007",
+    "fecha": "2026-02-09T20:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 2.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0002",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000323",
+    "bienId": "BP-000132",
+    "fecha": "2026-02-09T20:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0025",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000324",
+    "bienId": "BP-000290",
+    "fecha": "2026-02-09T21:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0053",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000325",
+    "bienId": "BP-000159",
+    "fecha": "2026-02-09T21:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0029",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000326",
+    "bienId": "BP-000074",
+    "fecha": "2026-02-09T21:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0014",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000327",
+    "bienId": "BP-000197",
+    "fecha": "2026-02-09T22:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0036",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000328",
+    "bienId": "BP-000121",
+    "fecha": "2026-02-10T13:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Tópico.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0022",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000329",
+    "bienId": "BP-000210",
+    "fecha": "2026-02-10T13:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0038",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000330",
+    "bienId": "BP-000340",
+    "fecha": "2026-02-10T13:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0062",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000331",
+    "bienId": "BP-000114",
+    "fecha": "2026-02-10T13:45:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0021",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000332",
+    "bienId": "BP-000194",
+    "fecha": "2026-02-10T14:10:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0036",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000333",
+    "bienId": "BP-000111",
+    "fecha": "2026-02-10T14:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Comedor.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0020",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000334",
+    "bienId": "BP-000292",
+    "fecha": "2026-02-10T15:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Lavandería.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0055",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000335",
+    "bienId": "BP-000213",
+    "fecha": "2026-02-10T18:40:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Lavandería.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0039",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000336",
+    "bienId": "BP-000045",
+    "fecha": "2026-02-10T19:00:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Sala de recreación.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0009",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000337",
+    "bienId": "BP-000119",
+    "fecha": "2026-02-10T19:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0021",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000338",
+    "bienId": "BP-000049",
+    "fecha": "2026-02-10T19:20:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0010",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000339",
+    "bienId": "BP-000263",
+    "fecha": "2026-02-10T21:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Dormitorio 1.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0048",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000340",
+    "bienId": "BP-000072",
+    "fecha": "2026-02-10T22:15:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0014",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000341",
+    "bienId": "BP-000199",
+    "fecha": "2026-02-10T22:30:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Registro inicial del bien en Oficina de dirección.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0036",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000342",
+    "bienId": "BP-000067",
+    "fecha": "2026-02-13T15:10:00.000Z",
+    "tipo": "transferencia",
+    "descripcion": "Transferencia de Sala de estudio a Comedor. Motivo: redistribución de mobiliario y equipos.",
+    "ambienteOrigenId": "AMB-0016",
+    "ambienteDestinoId": "AMB-0013",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000343",
+    "bienId": "BP-000094",
+    "fecha": "2026-02-14T16:30:00.000Z",
+    "tipo": "transferencia",
+    "descripcion": "Transferencia de Oficina de dirección a Dormitorio 2. Motivo: redistribución de mobiliario y equipos.",
+    "ambienteOrigenId": "AMB-0021",
+    "ambienteDestinoId": "AMB-0018",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000344",
+    "bienId": "BP-000105",
+    "fecha": "2026-02-20T15:20:00.000Z",
+    "tipo": "transferencia",
+    "descripcion": "Transferencia de Sala de estudio a Comedor. Motivo: redistribución de mobiliario y equipos.",
+    "ambienteOrigenId": "AMB-0023",
+    "ambienteDestinoId": "AMB-0020",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000345",
+    "bienId": "BP-000077",
+    "fecha": "2026-02-22T21:20:00.000Z",
+    "tipo": "transferencia",
+    "descripcion": "Transferencia de Dormitorio 2 a Oficina de dirección. Motivo: redistribución de mobiliario y equipos.",
+    "ambienteOrigenId": "AMB-0011",
+    "ambienteDestinoId": "AMB-0014",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000346",
+    "bienId": "BP-000042",
+    "fecha": "2026-02-23T16:10:00.000Z",
+    "tipo": "transferencia",
+    "descripcion": "Transferencia de Dormitorio 2 a Lavandería. Motivo: redistribución de mobiliario y equipos.",
+    "ambienteOrigenId": "AMB-0002",
+    "ambienteDestinoId": "AMB-0008",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000347",
+    "bienId": "BP-000037",
+    "fecha": "2026-02-27T13:00:00.000Z",
+    "tipo": "transferencia",
+    "descripcion": "Transferencia de Comedor a Sala de estudio. Motivo: redistribución de mobiliario y equipos.",
+    "ambienteOrigenId": "AMB-0004",
+    "ambienteDestinoId": "AMB-0007",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000348",
+    "bienId": "BP-000005",
+    "fecha": "2026-03-02T14:50:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 1: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000349",
+    "bienId": "BP-000001",
+    "fecha": "2026-03-02T19:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 1: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000350",
+    "bienId": "BP-000002",
+    "fecha": "2026-03-02T19:45:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 1: encontrado, estado Malo.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000351",
+    "bienId": "BP-000004",
+    "fecha": "2026-03-02T20:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 1: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000352",
+    "bienId": "BP-000003",
+    "fecha": "2026-03-02T21:50:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 1: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000353",
+    "bienId": "BP-000008",
+    "fecha": "2026-03-03T14:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 2: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000354",
+    "bienId": "BP-000011",
+    "fecha": "2026-03-03T14:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 2: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000355",
+    "bienId": "BP-000009",
+    "fecha": "2026-03-03T17:30:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 2: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000356",
+    "bienId": "BP-000006",
+    "fecha": "2026-03-03T20:20:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 2: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000357",
+    "bienId": "BP-000010",
+    "fecha": "2026-03-03T21:30:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 2: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000358",
+    "bienId": "BP-000007",
+    "fecha": "2026-03-03T22:30:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 2: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000359",
+    "bienId": "BP-000014",
+    "fecha": "2026-03-05T14:40:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Cocina: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000360",
+    "bienId": "BP-000013",
+    "fecha": "2026-03-05T19:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Cocina: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000361",
+    "bienId": "BP-000015",
+    "fecha": "2026-03-05T21:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Cocina: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000362",
+    "bienId": "BP-000019",
+    "fecha": "2026-03-06T15:45:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Comedor: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000363",
+    "bienId": "BP-000021",
+    "fecha": "2026-03-06T16:45:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Comedor: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000364",
+    "bienId": "BP-000017",
+    "fecha": "2026-03-06T17:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Comedor: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000365",
+    "bienId": "BP-000020",
+    "fecha": "2026-03-06T19:20:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Comedor: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000366",
+    "bienId": "BP-000016",
+    "fecha": "2026-03-06T19:40:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Comedor: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000367",
+    "bienId": "BP-000018",
+    "fecha": "2026-03-06T21:45:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Comedor: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000368",
+    "bienId": "BP-000022",
+    "fecha": "2026-03-08T13:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Oficina de dirección: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000369",
+    "bienId": "BP-000025",
+    "fecha": "2026-03-08T13:45:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Oficina de dirección: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000370",
+    "bienId": "BP-000024",
+    "fecha": "2026-03-08T13:50:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Oficina de dirección: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000371",
+    "bienId": "BP-000026",
+    "fecha": "2026-03-08T15:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Oficina de dirección: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000372",
+    "bienId": "BP-000027",
+    "fecha": "2026-03-08T18:30:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Oficina de dirección: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000373",
+    "bienId": "BP-000029",
+    "fecha": "2026-03-08T20:30:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Oficina de dirección: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000374",
+    "bienId": "BP-000030",
+    "fecha": "2026-03-08T20:50:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Oficina de dirección: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000375",
+    "bienId": "BP-000028",
+    "fecha": "2026-03-08T22:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 1: encontrado (registrado en Oficina de dirección), estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000376",
+    "bienId": "BP-000023",
+    "fecha": "2026-03-08T22:40:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Oficina de dirección: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000377",
+    "bienId": "BP-000034",
+    "fecha": "2026-03-09T13:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Tópico: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000378",
+    "bienId": "BP-000032",
+    "fecha": "2026-03-09T14:50:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Tópico: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000379",
+    "bienId": "BP-000033",
+    "fecha": "2026-03-09T18:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Tópico: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000380",
+    "bienId": "BP-000031",
+    "fecha": "2026-03-09T21:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Tópico: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000381",
+    "bienId": "BP-000036",
+    "fecha": "2026-03-11T15:20:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Sala de estudio: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000382",
+    "bienId": "BP-000039",
+    "fecha": "2026-03-11T17:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Sala de estudio: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000383",
+    "bienId": "BP-000040",
+    "fecha": "2026-03-11T17:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Sala de estudio: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000384",
+    "bienId": "BP-000037",
+    "fecha": "2026-03-11T19:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Sala de estudio: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000385",
+    "bienId": "BP-000038",
+    "fecha": "2026-03-11T20:30:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Sala de estudio: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000386",
+    "bienId": "BP-000035",
+    "fecha": "2026-03-11T22:45:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Sala de estudio: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000387",
+    "bienId": "BP-000041",
+    "fecha": "2026-03-12T13:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Lavandería: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000388",
+    "bienId": "BP-000042",
+    "fecha": "2026-03-12T14:45:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Lavandería: encontrado, estado Malo.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000389",
+    "bienId": "BP-000043",
+    "fecha": "2026-03-12T20:20:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Lavandería: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000390",
+    "bienId": "BP-000045",
+    "fecha": "2026-03-14T15:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Sala de recreación: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000391",
+    "bienId": "BP-000046",
+    "fecha": "2026-03-14T17:45:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Sala de recreación: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000392",
+    "bienId": "BP-000044",
+    "fecha": "2026-03-14T21:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Sala de recreación: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000393",
+    "bienId": "BP-000051",
+    "fecha": "2026-03-15T13:40:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 1: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000394",
+    "bienId": "BP-000049",
+    "fecha": "2026-03-15T14:50:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 1: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000395",
+    "bienId": "BP-000048",
+    "fecha": "2026-03-15T15:50:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 1: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000396",
+    "bienId": "BP-000050",
+    "fecha": "2026-03-15T18:20:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 1: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000397",
+    "bienId": "BP-000047",
+    "fecha": "2026-03-15T19:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 1: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000398",
+    "bienId": "BP-000055",
+    "fecha": "2026-03-17T15:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 2: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000399",
+    "bienId": "BP-000053",
+    "fecha": "2026-03-17T15:30:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 2: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000400",
+    "bienId": "BP-000052",
+    "fecha": "2026-03-17T16:30:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 2: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000401",
+    "bienId": "BP-000056",
+    "fecha": "2026-03-17T19:45:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 2: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000402",
+    "bienId": "BP-000054",
+    "fecha": "2026-03-17T22:45:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 2: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000403",
+    "bienId": "BP-000058",
+    "fecha": "2026-03-18T13:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Cocina: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000404",
+    "bienId": "BP-000059",
+    "fecha": "2026-03-18T14:40:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Cocina: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000405",
+    "bienId": "BP-000061",
+    "fecha": "2026-03-18T17:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Cocina: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000406",
+    "bienId": "BP-000060",
+    "fecha": "2026-03-18T21:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Cocina: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000407",
+    "bienId": "BP-000057",
+    "fecha": "2026-03-18T21:45:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Cocina: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000408",
+    "bienId": "BP-000062",
+    "fecha": "2026-03-20T13:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Comedor: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000409",
+    "bienId": "BP-000064",
+    "fecha": "2026-03-20T14:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Comedor: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000410",
+    "bienId": "BP-000067",
+    "fecha": "2026-03-20T15:30:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Comedor: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000411",
+    "bienId": "BP-000066",
+    "fecha": "2026-03-20T16:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Comedor: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000412",
+    "bienId": "BP-000068",
+    "fecha": "2026-03-20T17:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Comedor: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000413",
+    "bienId": "BP-000063",
+    "fecha": "2026-03-20T17:50:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Comedor: encontrado, estado Malo.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000414",
+    "bienId": "BP-000065",
+    "fecha": "2026-03-20T18:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Comedor: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000415",
+    "bienId": "BP-000074",
+    "fecha": "2026-03-22T14:50:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Oficina de dirección: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000416",
+    "bienId": "BP-000071",
+    "fecha": "2026-03-22T16:30:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Oficina de dirección: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000417",
+    "bienId": "BP-000076",
+    "fecha": "2026-03-22T17:20:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Oficina de dirección: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000418",
+    "bienId": "BP-000077",
+    "fecha": "2026-03-22T18:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Oficina de dirección: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000419",
+    "bienId": "BP-000073",
+    "fecha": "2026-03-22T19:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Oficina de dirección: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000420",
+    "bienId": "BP-000069",
+    "fecha": "2026-03-22T20:50:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Oficina de dirección: encontrado, estado Sin evaluar.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000421",
+    "bienId": "BP-000075",
+    "fecha": "2026-03-22T21:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Oficina de dirección: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000422",
+    "bienId": "BP-000072",
+    "fecha": "2026-03-22T22:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Oficina de dirección: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000423",
+    "bienId": "BP-000078",
+    "fecha": "2026-03-22T22:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Oficina de dirección: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000424",
+    "bienId": "BP-000082",
+    "fecha": "2026-03-23T13:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Tópico: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000425",
+    "bienId": "BP-000080",
+    "fecha": "2026-03-23T16:40:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Tópico: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000426",
+    "bienId": "BP-000079",
+    "fecha": "2026-03-23T16:45:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Tópico: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000427",
+    "bienId": "BP-000081",
+    "fecha": "2026-03-23T20:45:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Tópico: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000428",
+    "bienId": "BP-000084",
+    "fecha": "2026-03-25T13:45:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Sala de estudio: encontrado, estado Malo.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000429",
+    "bienId": "BP-000083",
+    "fecha": "2026-03-25T14:20:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Sala de estudio: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000430",
+    "bienId": "BP-000085",
+    "fecha": "2026-03-25T18:20:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Sala de estudio: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000431",
+    "bienId": "BP-000086",
+    "fecha": "2026-03-25T20:30:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Sala de estudio: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000432",
+    "bienId": "BP-000087",
+    "fecha": "2026-03-25T22:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Sala de estudio: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000433",
+    "bienId": "BP-000088",
+    "fecha": "2026-03-25T22:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Sala de estudio: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000434",
+    "bienId": "BP-000091",
+    "fecha": "2026-03-26T13:45:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 1: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000435",
+    "bienId": "BP-000092",
+    "fecha": "2026-03-26T15:40:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 1: encontrado, estado Malo.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000436",
+    "bienId": "BP-000090",
+    "fecha": "2026-03-26T16:20:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 1: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000437",
+    "bienId": "BP-000093",
+    "fecha": "2026-03-26T16:20:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 1: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000438",
+    "bienId": "BP-000089",
+    "fecha": "2026-03-26T18:20:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 1: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000439",
+    "bienId": "BP-000095",
+    "fecha": "2026-03-28T13:20:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 2: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000440",
+    "bienId": "BP-000098",
+    "fecha": "2026-03-28T13:45:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 2: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000441",
+    "bienId": "BP-000096",
+    "fecha": "2026-03-28T16:40:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 2: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000442",
+    "bienId": "BP-000099",
+    "fecha": "2026-03-28T17:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 2: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000443",
+    "bienId": "BP-000097",
+    "fecha": "2026-03-28T18:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 2: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000444",
+    "bienId": "BP-000094",
+    "fecha": "2026-03-28T20:40:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Dormitorio 2: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000445",
+    "bienId": "BP-000101",
+    "fecha": "2026-03-29T15:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Cocina: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000446",
+    "bienId": "BP-000100",
+    "fecha": "2026-03-29T17:30:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Cocina: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000447",
+    "bienId": "BP-000102",
+    "fecha": "2026-03-29T18:30:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Cocina: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000448",
+    "bienId": "BP-000104",
+    "fecha": "2026-03-29T19:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Cocina: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000449",
+    "bienId": "BP-000103",
+    "fecha": "2026-03-29T21:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Cocina: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000450",
+    "bienId": "BP-000107",
+    "fecha": "2026-03-31T13:40:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Comedor: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000451",
+    "bienId": "BP-000109",
+    "fecha": "2026-03-31T17:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Comedor: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000452",
+    "bienId": "BP-000105",
+    "fecha": "2026-03-31T18:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Comedor: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000453",
+    "bienId": "BP-000110",
+    "fecha": "2026-03-31T19:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Comedor: encontrado, estado Sin evaluar.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000454",
+    "bienId": "BP-000111",
+    "fecha": "2026-03-31T21:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Comedor: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000455",
+    "bienId": "BP-000106",
+    "fecha": "2026-03-31T22:20:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Oficina de dirección: encontrado (registrado en Comedor), estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000456",
+    "bienId": "BP-000108",
+    "fecha": "2026-03-31T22:40:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Comedor: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000457",
+    "bienId": "BP-000115",
+    "fecha": "2026-04-01T13:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Oficina de dirección: encontrado, estado Sin evaluar.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000458",
+    "bienId": "BP-000113",
+    "fecha": "2026-04-01T14:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Oficina de dirección: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000459",
+    "bienId": "BP-000114",
+    "fecha": "2026-04-01T15:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Oficina de dirección: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000460",
+    "bienId": "BP-000116",
+    "fecha": "2026-04-01T16:45:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Oficina de dirección: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000461",
+    "bienId": "BP-000118",
+    "fecha": "2026-04-01T16:50:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Oficina de dirección: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000462",
+    "bienId": "BP-000119",
+    "fecha": "2026-04-01T17:40:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Oficina de dirección: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000463",
+    "bienId": "BP-000117",
+    "fecha": "2026-04-01T18:40:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Oficina de dirección: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000464",
+    "bienId": "BP-000122",
+    "fecha": "2026-04-03T18:45:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Tópico: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000465",
+    "bienId": "BP-000123",
+    "fecha": "2026-04-03T19:50:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Tópico: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000466",
+    "bienId": "BP-000120",
+    "fecha": "2026-04-03T22:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Tópico: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000467",
+    "bienId": "BP-000121",
+    "fecha": "2026-04-03T22:40:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Tópico: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000468",
+    "bienId": "BP-000128",
+    "fecha": "2026-04-04T13:45:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Sala de estudio: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000469",
+    "bienId": "BP-000125",
+    "fecha": "2026-04-04T16:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Sala de estudio: encontrado, estado Sin evaluar.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000470",
+    "bienId": "BP-000127",
+    "fecha": "2026-04-04T16:20:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Sala de estudio: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000471",
+    "bienId": "BP-000124",
+    "fecha": "2026-04-04T19:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Sala de estudio: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000472",
+    "bienId": "BP-000126",
+    "fecha": "2026-04-04T19:30:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Sala de estudio: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000473",
+    "bienId": "BP-000130",
+    "fecha": "2026-04-06T14:40:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Lavandería: encontrado, estado Sin evaluar.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000474",
+    "bienId": "BP-000131",
+    "fecha": "2026-04-06T20:20:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Lavandería: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000475",
+    "bienId": "BP-000129",
+    "fecha": "2026-04-06T22:45:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-001 – Lavandería: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000476",
+    "bienId": "BP-000106",
+    "fecha": "2026-04-20T18:00:00.000Z",
+    "tipo": "regularizacion",
+    "descripcion": "Regularización CAM-2026-001: ubicación actualizada de Comedor a Oficina de dirección. Sustento: Acta de verificación firmada por el custodio del ambiente.",
+    "ambienteOrigenId": "AMB-0020",
+    "ambienteDestinoId": "AMB-0021",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000477",
+    "bienId": "BP-000028",
+    "fecha": "2026-04-20T22:40:00.000Z",
+    "tipo": "regularizacion",
+    "descripcion": "Regularización CAM-2026-001: ubicación actualizada de Oficina de dirección a Dormitorio 1. Sustento: Acta de verificación firmada por el custodio del ambiente.",
+    "ambienteOrigenId": "AMB-0005",
+    "ambienteDestinoId": "AMB-0001",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000478",
+    "bienId": "BP-000342",
+    "fecha": "2026-04-21T15:50:00.000Z",
+    "tipo": "registro",
+    "descripcion": "Incorporado al registro por regularización de sobrante (CAM-2026-001) en Sala de estudio.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": "AMB-0016",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000479",
+    "bienId": "BP-000252",
+    "fecha": "2026-05-08T14:40:00.000Z",
+    "tipo": "actualizacion",
+    "descripcion": "Actualización del estado de conservación a Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000480",
+    "bienId": "BP-000035",
+    "fecha": "2026-05-08T20:15:00.000Z",
+    "tipo": "actualizacion",
+    "descripcion": "Actualización del estado de conservación a Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000481",
+    "bienId": "BP-000078",
+    "fecha": "2026-05-17T18:15:00.000Z",
+    "tipo": "actualizacion",
+    "descripcion": "Actualización del estado de conservación a Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000482",
+    "bienId": "BP-000096",
+    "fecha": "2026-05-23T18:45:00.000Z",
+    "tipo": "actualizacion",
+    "descripcion": "Actualización del estado de conservación a Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000483",
+    "bienId": "BP-000258",
+    "fecha": "2026-05-28T15:45:00.000Z",
+    "tipo": "transferencia",
+    "descripcion": "Transferencia de Tópico a Sala de estudio. Motivo: redistribución de mobiliario y equipos.",
+    "ambienteOrigenId": "AMB-0046",
+    "ambienteDestinoId": "AMB-0047",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000484",
+    "bienId": "BP-000164",
+    "fecha": "2026-05-28T19:45:00.000Z",
+    "tipo": "actualizacion",
+    "descripcion": "Actualización del estado de conservación a Malo.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000485",
+    "bienId": "BP-000160",
+    "fecha": "2026-05-30T17:30:00.000Z",
+    "tipo": "actualizacion",
+    "descripcion": "Actualización del estado de conservación a Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000486",
+    "bienId": "BP-000313",
+    "fecha": "2026-06-08T15:45:00.000Z",
+    "tipo": "transferencia",
+    "descripcion": "Transferencia de Dormitorio 1 a Cocina. Motivo: redistribución de mobiliario y equipos.",
+    "ambienteOrigenId": "AMB-0056",
+    "ambienteDestinoId": "AMB-0058",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000487",
+    "bienId": "BP-000310",
+    "fecha": "2026-06-09T21:40:00.000Z",
+    "tipo": "transferencia",
+    "descripcion": "Transferencia de Sala de estudio a Dormitorio 2. Motivo: redistribución de mobiliario y equipos.",
+    "ambienteOrigenId": "AMB-0062",
+    "ambienteDestinoId": "AMB-0057",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000488",
+    "bienId": "BP-000019",
+    "fecha": "2026-06-09T22:45:00.000Z",
+    "tipo": "actualizacion",
+    "descripcion": "Actualización del estado de conservación a Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000489",
+    "bienId": "BP-000230",
+    "fecha": "2026-06-23T22:15:00.000Z",
+    "tipo": "actualizacion",
+    "descripcion": "Actualización del estado de conservación a Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000490",
+    "bienId": "BP-000012",
+    "fecha": "2026-07-05T14:20:00.000Z",
+    "tipo": "baja",
+    "descripcion": "Baja del bien. Motivo: Deterioro irreparable. Sustento: Informe técnico N.° 076-2026-USPNNA.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000491",
+    "bienId": "BP-000070",
+    "fecha": "2026-07-12T19:00:00.000Z",
+    "tipo": "baja",
+    "descripcion": "Baja del bien. Motivo: Obsolescencia técnica. Sustento: Informe técnico N.° 013-2026-USPNNA.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000492",
+    "bienId": "BP-000241",
+    "fecha": "2026-07-13T15:20:00.000Z",
+    "tipo": "transferencia",
+    "descripcion": "Transferencia de Comedor a Oficina de dirección. Motivo: redistribución de mobiliario y equipos.",
+    "ambienteOrigenId": "AMB-0044",
+    "ambienteDestinoId": "AMB-0045",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000493",
+    "bienId": "BP-000311",
+    "fecha": "2026-07-15T13:10:00.000Z",
+    "tipo": "baja",
+    "descripcion": "Baja del bien. Motivo: Deterioro irreparable. Sustento: Informe técnico N.° 016-2026-USPNNA.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000494",
+    "bienId": "BP-000119",
+    "fecha": "2026-07-18T17:40:00.000Z",
+    "tipo": "actualizacion",
+    "descripcion": "Actualización del estado de conservación a Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000495",
+    "bienId": "BP-000107",
+    "fecha": "2026-07-25T22:30:00.000Z",
+    "tipo": "actualizacion",
+    "descripcion": "Actualización del estado de conservación a Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000496",
+    "bienId": "BP-000136",
+    "fecha": "2026-08-03T13:50:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Dormitorio 1: no encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000497",
+    "bienId": "BP-000157",
+    "fecha": "2026-08-03T14:20:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Dormitorio 1: encontrado (registrado en Oficina de dirección), estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000498",
+    "bienId": "BP-000135",
+    "fecha": "2026-08-03T15:50:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Dormitorio 1: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000499",
+    "bienId": "BP-000132",
+    "fecha": "2026-08-03T20:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Dormitorio 1: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000500",
+    "bienId": "BP-000133",
+    "fecha": "2026-08-03T22:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Dormitorio 1: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000501",
+    "bienId": "BP-000134",
+    "fecha": "2026-08-03T22:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Dormitorio 1: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000502",
+    "bienId": "BP-000137",
+    "fecha": "2026-08-05T14:30:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Dormitorio 2: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000503",
+    "bienId": "BP-000140",
+    "fecha": "2026-08-05T16:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Dormitorio 2: encontrado, estado Sin evaluar.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000504",
+    "bienId": "BP-000141",
+    "fecha": "2026-08-05T17:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Dormitorio 2: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000505",
+    "bienId": "BP-000138",
+    "fecha": "2026-08-05T20:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Dormitorio 2: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000506",
+    "bienId": "BP-000142",
+    "fecha": "2026-08-05T21:30:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Dormitorio 2: encontrado, estado Sin evaluar.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000507",
+    "bienId": "BP-000139",
+    "fecha": "2026-08-05T22:30:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Dormitorio 2: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000508",
+    "bienId": "BP-000145",
+    "fecha": "2026-08-07T13:45:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Cocina: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000509",
+    "bienId": "BP-000146",
+    "fecha": "2026-08-07T14:20:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Cocina: no encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000510",
+    "bienId": "BP-000147",
+    "fecha": "2026-08-07T15:30:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Cocina: encontrado, estado Malo.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000511",
+    "bienId": "BP-000316",
+    "fecha": "2026-08-07T17:45:00.000Z",
+    "tipo": "baja",
+    "descripcion": "Baja del bien. Motivo: Deterioro irreparable. Sustento: Informe técnico N.° 014-2026-USPNNA.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000512",
+    "bienId": "BP-000144",
+    "fecha": "2026-08-07T19:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Cocina: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000513",
+    "bienId": "BP-000143",
+    "fecha": "2026-08-07T19:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Cocina: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000514",
+    "bienId": "BP-000152",
+    "fecha": "2026-08-09T13:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Comedor: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000515",
+    "bienId": "BP-000154",
+    "fecha": "2026-08-09T15:45:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Comedor: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000516",
+    "bienId": "BP-000148",
+    "fecha": "2026-08-09T17:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Comedor: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000517",
+    "bienId": "BP-000151",
+    "fecha": "2026-08-09T18:30:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Comedor: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000518",
+    "bienId": "BP-000153",
+    "fecha": "2026-08-09T19:50:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Comedor: no encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000519",
+    "bienId": "BP-000150",
+    "fecha": "2026-08-09T20:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Comedor: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000520",
+    "bienId": "BP-000149",
+    "fecha": "2026-08-09T22:20:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Comedor: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000521",
+    "bienId": "BP-000155",
+    "fecha": "2026-08-12T15:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Oficina de dirección: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000522",
+    "bienId": "BP-000157",
+    "fecha": "2026-08-12T17:20:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Oficina de dirección: no encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000523",
+    "bienId": "BP-000156",
+    "fecha": "2026-08-12T19:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Oficina de dirección: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000524",
+    "bienId": "BP-000158",
+    "fecha": "2026-08-12T21:50:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Oficina de dirección: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000525",
+    "bienId": "BP-000160",
+    "fecha": "2026-08-12T22:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Oficina de dirección: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000526",
+    "bienId": "BP-000159",
+    "fecha": "2026-08-12T22:40:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Oficina de dirección: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000527",
+    "bienId": "BP-000163",
+    "fecha": "2026-08-14T13:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Tópico: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000528",
+    "bienId": "BP-000164",
+    "fecha": "2026-08-14T14:40:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Tópico: encontrado, estado Malo.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000529",
+    "bienId": "BP-000161",
+    "fecha": "2026-08-14T16:40:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Tópico: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000530",
+    "bienId": "BP-000146",
+    "fecha": "2026-08-14T20:40:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Tópico: encontrado (registrado en Cocina), estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000531",
+    "bienId": "BP-000162",
+    "fecha": "2026-08-14T21:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Tópico: no encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000532",
+    "bienId": "BP-000166",
+    "fecha": "2026-08-16T13:30:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Sala de estudio: encontrado, estado Malo.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000533",
+    "bienId": "BP-000165",
+    "fecha": "2026-08-16T13:40:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Sala de estudio: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000534",
+    "bienId": "BP-000170",
+    "fecha": "2026-08-16T15:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Sala de estudio: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000535",
+    "bienId": "BP-000168",
+    "fecha": "2026-08-16T15:50:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Sala de estudio: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000536",
+    "bienId": "BP-000167",
+    "fecha": "2026-08-16T17:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Sala de estudio: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000537",
+    "bienId": "BP-000169",
+    "fecha": "2026-08-16T17:20:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Sala de estudio: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000538",
+    "bienId": "BP-000171",
+    "fecha": "2026-08-16T19:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Sala de estudio: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000539",
+    "bienId": "BP-000175",
+    "fecha": "2026-08-19T13:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Dormitorio 1: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000540",
+    "bienId": "BP-000174",
+    "fecha": "2026-08-19T14:45:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Dormitorio 1: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000541",
+    "bienId": "BP-000172",
+    "fecha": "2026-08-19T16:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Dormitorio 1: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000542",
+    "bienId": "BP-000173",
+    "fecha": "2026-08-19T17:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Dormitorio 1: encontrado, estado Sin evaluar.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000543",
+    "bienId": "BP-000177",
+    "fecha": "2026-08-19T18:20:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Dormitorio 1: encontrado, estado Malo.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000544",
+    "bienId": "BP-000176",
+    "fecha": "2026-08-19T19:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Dormitorio 1: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000545",
+    "bienId": "BP-000292",
+    "fecha": "2026-08-20T15:10:00.000Z",
+    "tipo": "transferencia",
+    "descripcion": "Transferencia de Lavandería a Sala de estudio. Motivo: redistribución de mobiliario y equipos.",
+    "ambienteOrigenId": "AMB-0055",
+    "ambienteDestinoId": "AMB-0054",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000546",
+    "bienId": "BP-000181",
+    "fecha": "2026-08-21T13:45:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Dormitorio 2: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000547",
+    "bienId": "BP-000178",
+    "fecha": "2026-08-21T17:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Dormitorio 2: encontrado, estado Malo.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000548",
+    "bienId": "BP-000180",
+    "fecha": "2026-08-21T19:30:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Dormitorio 2: encontrado, estado Malo.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000549",
+    "bienId": "BP-000179",
+    "fecha": "2026-08-21T21:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Dormitorio 2: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000550",
+    "bienId": "BP-000183",
+    "fecha": "2026-08-23T13:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Cocina: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000551",
+    "bienId": "BP-000186",
+    "fecha": "2026-08-23T13:45:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Cocina: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000552",
+    "bienId": "BP-000182",
+    "fecha": "2026-08-23T14:30:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Cocina: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000553",
+    "bienId": "BP-000184",
+    "fecha": "2026-08-23T19:20:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Cocina: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000554",
+    "bienId": "BP-000185",
+    "fecha": "2026-08-23T22:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Cocina: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000555",
+    "bienId": "BP-000192",
+    "fecha": "2026-08-26T13:20:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Comedor: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000556",
+    "bienId": "BP-000188",
+    "fecha": "2026-08-26T14:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Comedor: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000557",
+    "bienId": "BP-000190",
+    "fecha": "2026-08-26T14:40:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Comedor: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000558",
+    "bienId": "BP-000193",
+    "fecha": "2026-08-26T17:20:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Comedor: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000559",
+    "bienId": "BP-000191",
+    "fecha": "2026-08-26T18:40:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Comedor: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000560",
+    "bienId": "BP-000189",
+    "fecha": "2026-08-26T19:50:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Comedor: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000561",
+    "bienId": "BP-000153",
+    "fecha": "2026-08-26T20:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Comedor: encontrado (registrado en Comedor – CAR Los Girasoles), estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000562",
+    "bienId": "BP-000187",
+    "fecha": "2026-08-26T22:30:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Comedor: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000563",
+    "bienId": "BP-000200",
+    "fecha": "2026-08-28T13:20:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Oficina de dirección: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000564",
+    "bienId": "BP-000195",
+    "fecha": "2026-08-28T14:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Oficina de dirección: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000565",
+    "bienId": "BP-000194",
+    "fecha": "2026-08-28T14:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Oficina de dirección: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000566",
+    "bienId": "BP-000198",
+    "fecha": "2026-08-28T14:20:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Oficina de dirección: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000567",
+    "bienId": "BP-000196",
+    "fecha": "2026-08-28T15:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Oficina de dirección: no encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000568",
+    "bienId": "BP-000197",
+    "fecha": "2026-08-28T22:30:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Oficina de dirección: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000569",
+    "bienId": "BP-000199",
+    "fecha": "2026-08-28T22:30:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Oficina de dirección: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000570",
+    "bienId": "BP-000201",
+    "fecha": "2026-08-28T22:30:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Oficina de dirección: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000571",
+    "bienId": "BP-000204",
+    "fecha": "2026-08-30T13:30:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Tópico: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000572",
+    "bienId": "BP-000205",
+    "fecha": "2026-08-30T20:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Tópico: no encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000573",
+    "bienId": "BP-000202",
+    "fecha": "2026-08-30T21:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Tópico: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000574",
+    "bienId": "BP-000203",
+    "fecha": "2026-08-30T22:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Tópico: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000575",
+    "bienId": "BP-000207",
+    "fecha": "2026-09-02T13:40:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Sala de estudio: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000576",
+    "bienId": "BP-000208",
+    "fecha": "2026-09-02T14:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Sala de estudio: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000577",
+    "bienId": "BP-000211",
+    "fecha": "2026-09-02T15:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Sala de estudio: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000578",
+    "bienId": "BP-000206",
+    "fecha": "2026-09-02T18:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Sala de estudio: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000579",
+    "bienId": "BP-000210",
+    "fecha": "2026-09-02T22:20:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Sala de estudio: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000580",
+    "bienId": "BP-000209",
+    "fecha": "2026-09-02T22:30:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Sala de estudio: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000581",
+    "bienId": "BP-000212",
+    "fecha": "2026-09-04T16:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Lavandería: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000582",
+    "bienId": "BP-000214",
+    "fecha": "2026-09-04T16:45:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Lavandería: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000583",
+    "bienId": "BP-000213",
+    "fecha": "2026-09-04T19:50:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-002 – Lavandería: encontrado, estado Malo.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000584",
+    "bienId": "BP-000146",
+    "fecha": "2026-09-18T19:50:00.000Z",
+    "tipo": "regularizacion",
+    "descripcion": "Regularización CAM-2026-002: ubicación actualizada de Cocina a Tópico. Sustento: El custodio confirma la reubicación del bien por necesidad del servicio.",
+    "ambienteOrigenId": "AMB-0027",
+    "ambienteDestinoId": "AMB-0030",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000585",
+    "bienId": "BP-000162",
+    "fecha": "2026-09-21T22:30:00.000Z",
+    "tipo": "regularizacion",
+    "descripcion": "Regularización CAM-2026-002: baja por faltante en inventario. Sustento: Informe del CAR N.° 045-2026 sobre la pérdida del equipo.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000586",
+    "bienId": "BP-000284",
+    "fecha": "2026-09-23T20:20:00.000Z",
+    "tipo": "transferencia",
+    "descripcion": "Transferencia de Comedor a Oficina de dirección. Motivo: redistribución de mobiliario y equipos.",
+    "ambienteOrigenId": "AMB-0051",
+    "ambienteDestinoId": "AMB-0052",
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000587",
+    "bienId": "BP-000112",
+    "fecha": "2026-09-30T22:20:00.000Z",
+    "tipo": "baja",
+    "descripcion": "Baja del bien. Motivo: Deterioro irreparable. Sustento: Informe técnico N.° 083-2026-USPNNA.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000588",
+    "bienId": "BP-000223",
+    "fecha": "2026-10-01T15:40:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-003 – Dormitorio 1: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000589",
+    "bienId": "BP-000222",
+    "fecha": "2026-10-01T16:50:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-003 – Dormitorio 1: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000590",
+    "bienId": "BP-000221",
+    "fecha": "2026-10-01T19:40:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-003 – Dormitorio 1: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000591",
+    "bienId": "BP-000219",
+    "fecha": "2026-10-01T20:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-003 – Dormitorio 1: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000592",
+    "bienId": "BP-000220",
+    "fecha": "2026-10-01T21:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-003 – Dormitorio 1: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000593",
+    "bienId": "BP-000218",
+    "fecha": "2026-10-01T22:30:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-003 – Dormitorio 1: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000594",
+    "bienId": "BP-000226",
+    "fecha": "2026-10-03T15:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-003 – Dormitorio 2: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000595",
+    "bienId": "BP-000228",
+    "fecha": "2026-10-03T16:45:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-003 – Dormitorio 2: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000596",
+    "bienId": "BP-000225",
+    "fecha": "2026-10-03T20:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-003 – Dormitorio 2: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000597",
+    "bienId": "BP-000224",
+    "fecha": "2026-10-03T20:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-003 – Dormitorio 2: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000598",
+    "bienId": "BP-000227",
+    "fecha": "2026-10-03T20:20:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-003 – Dormitorio 2: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000599",
+    "bienId": "BP-000230",
+    "fecha": "2026-10-06T15:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-003 – Cocina: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000600",
+    "bienId": "BP-000233",
+    "fecha": "2026-10-06T15:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-003 – Cocina: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000601",
+    "bienId": "BP-000231",
+    "fecha": "2026-10-06T16:00:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-003 – Cocina: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000602",
+    "bienId": "BP-000232",
+    "fecha": "2026-10-06T16:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-003 – Cocina: encontrado, estado Sin evaluar.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000603",
+    "bienId": "BP-000229",
+    "fecha": "2026-10-06T19:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-003 – Cocina: encontrado, estado Regular.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000604",
+    "bienId": "BP-000237",
+    "fecha": "2026-10-08T18:50:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-003 – Comedor: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000605",
+    "bienId": "BP-000234",
+    "fecha": "2026-10-08T19:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-003 – Comedor: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000606",
+    "bienId": "BP-000238",
+    "fecha": "2026-10-08T19:40:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-003 – Comedor: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000607",
+    "bienId": "BP-000236",
+    "fecha": "2026-10-08T20:10:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-003 – Comedor: encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000608",
+    "bienId": "BP-000239",
+    "fecha": "2026-10-08T22:15:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-003 – Comedor: no encontrado, estado Bueno.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  },
+  {
+    "id": "HIS-000609",
+    "bienId": "BP-000235",
+    "fecha": "2026-10-08T22:45:00.000Z",
+    "tipo": "verificacion",
+    "descripcion": "Verificado en CAM-2026-003 – Comedor: encontrado, estado Sin evaluar.",
+    "ambienteOrigenId": null,
+    "ambienteDestinoId": null,
+    "responsable": "Equipo de inventario USPNNA"
+  }
+]
